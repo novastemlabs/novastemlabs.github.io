@@ -10,3 +10,6 @@ Nova STEM Labs was created by Doug Seven, a software engineer and product manage
 Always wanting to scale what he does to as many people as possible, Doug created the Nova STEM Labs as a way to make his work available to as many others as possible and advocate for STEM in Cub Scouts. 
 
 Doug loves collaboration - if you want to help out, drop an email to (counselro@NovaSTEMLabs.com[mailto:counselor@novastemlabs.com])
+
+# Theme Ideas
+(Documenter)[https://preview.themeforest.net/item/documenter-all-in-one-support-knowledgebase-documentation-website-jekyll-template/full_screen_preview/21417158?clickthrough_id=1404450481&redirect_back=true&ref=domake}
