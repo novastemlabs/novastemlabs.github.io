@@ -1,15 +1,18 @@
 ---
-layout: default
-title: About Nova STEM Labs
+layout: page
+title: About
+permalink: /about/
 ---
-(HOME)[/] | (SCIENCE)[/] | (TECHNOLOGY)[/] | (ENGINEERING)[/] | (MATH)[/] | (ABOUT)[/about.html]
 
-# About Nova STEM Labs
-Nova STEM Labs was created by Doug Seven, a software engineer and product manager in Microsoft Artificial Intelligence & Research. The Nova STEM Labs were inspired by watching his 8-year old son and his fellow Cub Scouts get engaged and excited when participating in active-learning on STEM topics. Through experimentation, Doug would source and try new activities that taught his Scouts the fundamentals of Science, Technology, Engineering, and Math (STEM). 
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-Always wanting to scale what he does to as many people as possible, Doug created the Nova STEM Labs as a way to make his work available to as many others as possible and advocate for STEM in Cub Scouts. 
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-Doug loves collaboration - if you want to help out, drop an email to (counselro@NovaSTEMLabs.com[mailto:counselor@novastemlabs.com])
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
-# Theme Ideas
-(Documenter)[https://preview.themeforest.net/item/documenter-all-in-one-support-knowledgebase-documentation-website-jekyll-template/full_screen_preview/21417158?clickthrough_id=1404450481&redirect_back=true&ref=domake}
+
+[jekyll-organization]: https://github.com/jekyll
