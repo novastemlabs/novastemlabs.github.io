@@ -1,0 +1,14 @@
+---
+title: technology
+layout: page
+navigation: false
+sub_title: Technology
+
+---
+
+{% include page_banner.html %}
+{% include our_community.html %}
+{% include our_history.html %}
+{% include call_to_action_2.html %}
+{% include our_team_member.html %}
+{% include call_to_action.html %}

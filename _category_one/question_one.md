@@ -1,18 +1,18 @@
 ---
 layout: topics
-date: 27-01-2018
-author: james khan
+date: 23-03-2019
+author: Doug Seven
 
 category_name: 
-  - AngularJS
+  - Science
 
 question: 
-  - What is AngularJS ?
+  - What Nova modules are there for Science?
 
 question_desc:
-  - Question Description AngularJs Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati consectetur quia, eaque totam iure cum. Tenetur atque, ad impedit nihil, optio eius, amet dignissimos quam saepe modi odit esse labore!
+  - What are the options for Scouts wanting to earn the Nova award for science? What approved modules are there. 
 
 answer:
-   - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit veniam quasi dolorem molestiae aperiam commodi obcaecati, non, asperiores assumenda veritatis velit. Suscipit placeat tempore, enim cupiditate reprehenderit voluptas id nobis!
+   - As of March 2019, there are five (5) Nova modules for the Science topic. They are Science Everywhere, Down and Dirty, Nova Wild, Out of this World, and Uncovering the Past.
 
 ---

@@ -4,7 +4,7 @@ date: 26-01-2018
 author: Franklin Paiuls
 
 category_name:
-  - ReactJS
+  - Technology
 
 question: 
   - How Can I Learning ReactJS Framework ?

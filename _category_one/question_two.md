@@ -1,15 +1,15 @@
 ---
 layout: topics
-date: 28-01-2018
-author: Jon Galver
+date: 23-03-2019
+author: Doug Seven
 
 category_name:
-  - AngularJS
+  - Science
 
 question: 
-  - Can I Start Learning AngularJS Framework ?
+  - Do I have to know a lot about science first?
 
 answer:
-   - AngularJS Framework Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit veniam quasi dolorem molestiae aperiam commodi obcaecati, non, asperiores assumenda veritatis velit. Suscipit placeat tempore, enim cupiditate reprehenderit voluptas id nobis!
+   - For Scouts, no knowledge of science is necessary - just a curiosity and desire to learn. For adult leaders, familiarity with the material should be sufficient to lead Scouts through these modules. This topic relies on understanding the fundamentals of the scientific method - question, hypothesize, experiment, observer and record, analyze and share results.
 
 ---

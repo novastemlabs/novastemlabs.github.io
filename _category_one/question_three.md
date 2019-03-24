@@ -1,15 +1,15 @@
 ---
 layout: topics
-date: 25-01-2018
-author: Harundua Kaua
+date: 23-03-2019
+author: Doug Seven
 
 category_name:
-  - AngularJS
+  - Science
 
 question: 
-  - Anyone Can Learning AngularJS Framework ?
+  - What is the scientific method?
 
 answer:
-   - AngularJS can Framework Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit veniam quasi dolorem molestiae aperiam commodi obcaecati, non, asperiores assumenda veritatis velit. Suscipit placeat tempore, enim cupiditate reprehenderit voluptas id nobis!
+   - The scientific method is a process for experimentation that is used to explore observations and answer questions. The scientific method has six (6) phases - ask a question, research and make a hypothesis, test with experiments, observer and record, analyze results, and share learning.
 
 ---

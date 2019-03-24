@@ -4,7 +4,7 @@ date: 26-01-2018
 author: Mailes Waylium
 
 category_name: 
-  - EmberJS
+  - Engineering
 
 question: 
   - What is EmberJS ?

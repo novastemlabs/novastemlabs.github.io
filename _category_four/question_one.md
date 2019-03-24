@@ -4,7 +4,7 @@ date: 26-01-2018
 author: Morise Poasa
 
 category_name: 
-  - VueJS
+  - Math
 
 question: 
   - What is VueJS ?

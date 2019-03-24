@@ -4,7 +4,7 @@ date: 27-01-2018
 author: Rasale Vuira
 
 category_name:
-  - ReactJs
+  - Technology
 
 question: 
   - How Can I Learning ReactJS Framework ?

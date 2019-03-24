@@ -72,6 +72,26 @@
 
                                 <nav>
                                     <ul class="nav navbar-nav">
+                                        <li>
+                                             <a href="/pages/science.html">S
+                                                <span>Science</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                                <a href="/pages/technology.html">T
+                                                   <span>Technology</span>
+                                               </a>
+                                           </li>
+                                           <li>
+                                                <a href="/pages/index.html">E
+                                                   <span>Engineering</span>
+                                               </a>
+                                           </li>
+                                           <li>
+                                                <a href="/pages/index.html">M
+                                                   <span>Math</span>
+                                               </a>
+                                           </li>
                                     {% for pageinfo in site.pages %}
                                     {% if pageinfo.navigation == true %}
                                      <li>
@@ -81,11 +101,12 @@
                                      </li>
                                     {% endif %}
                                     {% endfor %}
-                                     <li>
+                                     <!--<li>
                                         <a href="/pages/index.html">Blog
                                           <span>Blog Posts</span>
                                         </a>
                                       </li>
+                                      -->
                                      </ul>
                                 </nav>
                             </div>

@@ -4,7 +4,7 @@ date: 28-01-2018
 author: Eallumia Saweau
 
 category_name:
-  - VueJs
+  - Math
 
 question: 
   - How Can I Learning VueJS Framework ?

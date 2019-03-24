@@ -4,7 +4,7 @@ date: 25-01-2018
 author: Luaos Jasa
 
 category_name: 
-  - ReactJS
+  - Technology
 
 question: 
   - What is ReactJS ?
