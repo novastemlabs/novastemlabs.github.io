@@ -7,7 +7,7 @@ category_name:
   - Math
 
 question: 
-  - How Can I Learning VueJS Framework ?
+  - L:NLY GBF OPNZOP ESTD?
 
 answer:
    - VueJS Framework Lorem ipsum dolor sit amet. VueJs consectetur adipisicing elit. Fugit veniam quasi dolorem molestiae aperiam commodi obcaecati, non, asperiores assumenda veritatis velit. Suscipit placeat tempore, enim cupiditate reprehenderit voluptas id nobis!

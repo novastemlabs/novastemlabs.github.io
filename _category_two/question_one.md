@@ -7,7 +7,7 @@ category_name:
   - Technology
 
 question: 
-  - What is ReactJS ?
+  - Do I need to know how to code?
 
 question_desc:
   - React JS Question Description AngularJs Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati consectetur quia, eaque totam iure cum. Tenetur atque, ad impedit nihil, optio eius, amet dignissimos quam saepe modi odit esse labore!

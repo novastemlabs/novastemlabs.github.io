@@ -7,7 +7,7 @@ category_name:
   - Technology
 
 question: 
-  - How Can I Learning ReactJS Framework ?
+  - Will robots rule the earth?
 
 answer:
    - ReactJS Framework Lorem ipsum dolor sit amet, react  consectetur adipisicing elit. Fugit veniam quasi dolorem molestiae aperiam commodi obcaecati, non, asperiores assumenda veritatis velit. Suscipit placeat tempore, enim cupiditate reprehenderit voluptas id nobis!
