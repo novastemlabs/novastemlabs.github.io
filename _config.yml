@@ -33,7 +33,7 @@ plugins:
 collections:
   category_one:
     output: true
-    permalink: /category_one/:path
+    permalink: /science/:path
   category_two:
     output: true
     permalink: /category_two/:path
