@@ -24,7 +24,7 @@ url: "http://www.novastemlabs.com" # the base hostname & protocol for your site,
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
