@@ -7,7 +7,7 @@ layout: default
             <div class="row">
                 <div class="col-md-12">
                     <div class="page-title">
-                        <h2>{{page.title}}</h2>
+                        <h1>{{page.title}}</h1>
                         <span class="sub-title"><a href="{{site.url}}">Home</a> / {{page.category}}</span>
                     </div>
                 </div>
@@ -29,11 +29,11 @@ layout: default
                                 <img src="{{page.post_image}}" alt="blog">
                             </div>
                             <div class="blog-content-desc">
-                                <h4 class="themeix-blog-h">{{page.title}}</h4>
                                 <p>{{page.content}}</p>
                                 <div class="blog-post-date">
                                     <p>{{page.date | date:"%d"}} <span>{{page.date | date:"%B"}}</span> </p>
                                 </div>
+                                <!--
                                 <div class="tag-links mt-30">
                                     <div class="widget">
                                       <div class="tagcloud">
@@ -44,7 +44,7 @@ layout: default
                                         <p>By <a href="{{page.url}}">{{page.author_name}}</a> in <a href="{{page.url}}">{{page.category}}</a> </p>
                                     </div>
                                 </div>
-                                <!-- Leave a Comment -->
+                                <!-- Leave a Comment 
                                 <div id="respond">
                                     <div class="comment-respond pb-50">
                                       <div id="disqus_thread"></div>

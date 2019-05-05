@@ -16,11 +16,11 @@
 title: Nova STEM Labs
 email: counselor@novastemlabs.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A resource for activities and guidance for leading Scouts through the 
-  Nova STEM awards.
+  Activities and resources for Cub Scout interested in Science, Technology, Engineering or Math.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.novastemlabs.com" # the base hostname & protocol for your site, e.g. http://example.com
 
+timezone: America/Los_Angeles 
 
 # Build settings
 markdown: kramdown
@@ -36,13 +36,13 @@ collections:
     permalink: /science/:path
   category_two:
     output: true
-    permalink: /category_two/:path
+    permalink: /technology/:path
   category_three:
     output: true
-    permalink: /category_three/:path
+    permalink: /engineering/:path
   category_four:
     output: true
-    permalink: /category_four/:path
+    permalink: /math/:path
   updates:
     output: true
     permalink: '/updates/:path'
@@ -115,14 +115,14 @@ tag_page_dir: tag
 
 # social links
 
-twitter_username: "themeix_ltd"
-facebook_username: "themeix"
-google_plus_username: "themeix"
-instragram_username: "themeix"
-linkedin_username: "themeix"
-pinterest_username: "themeix"
-dribble_username: "themeix"
-github_username: "novastemlabs"
+twitter_username: "dseven"
+facebook_username: "novastemlabs"
+google_plus_username: "novastemlabs"
+instragram_username: "novastemlabs"
+linkedin_username: "novastemlabs"
+pinterest_username: "novastemlabs"
+dribble_username: "novastemlabs"
+github_username: "dseven"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
