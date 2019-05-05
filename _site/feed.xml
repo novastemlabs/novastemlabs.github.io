@@ -1,29 +1,623 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-08T15:55:52-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nova STEM Labs</title><subtitle>A resource for activities and guidance for leading Scouts through the  Nova STEM awards.</subtitle><entry><title type="html">Science Everywhere - Week 1</title><link href="http://localhost:4000/science/2019/03/04/science-everywhere-01.html" rel="alternate" type="text/html" title="Science Everywhere - Week 1" /><published>2019-03-03T18:00:00-08:00</published><updated>2019-03-03T18:00:00-08:00</updated><id>http://localhost:4000/science/2019/03/04/science-everywhere-01</id><content type="html" xml:base="http://localhost:4000/science/2019/03/04/science-everywhere-01.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-06T02:37:41-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nova STEM Labs</title><subtitle>Activities and resources for Cub Scout interested in Science, Technology, Engineering or Math.</subtitle><entry><title type="html">Science Everywhere - Week 4</title><link href="http://localhost:4000/science/2019/03/25/science-everywhere-w4.html" rel="alternate" type="text/html" title="Science Everywhere - Week 4" /><published>2019-03-25T01:00:00-07:00</published><updated>2019-03-25T01:00:00-07:00</updated><id>http://localhost:4000/science/2019/03/25/science-everywhere-w4</id><content type="html" xml:base="http://localhost:4000/science/2019/03/25/science-everywhere-w4.html">&lt;h1 id=&quot;meet-a-scientist&quot;&gt;Meet a Scientist&lt;/h1&gt;
+&lt;p&gt;This week you will wrap up the &lt;em&gt;Science Everywhere&lt;/em&gt; module with a visit to a place where science is done - a doctors office or clinic. This is a great place to learn how science is used in every day things.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="Science" /><category term="Science" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.</summary></entry><entry><title type="html">Unde fugit provident eligendi officiis quae</title><link href="http://localhost:4000/sports/2018/01/28/seven.html" rel="alternate" type="text/html" title="Unde fugit provident eligendi officiis quae" /><published>2018-01-27T19:15:12-08:00</published><updated>2018-01-27T19:15:12-08:00</updated><id>http://localhost:4000/sports/2018/01/28/seven</id><content type="html" xml:base="http://localhost:4000/sports/2018/01/28/seven.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit.&lt;/p&gt;
+&lt;h2 id=&quot;where-do-scientists-work&quot;&gt;Where Do Scientists Work?&lt;/h2&gt;
+&lt;p&gt;Scientists can be found in every day life all around you. Here are some examples of scientists that you may knwo or have met:&lt;/p&gt;
 
-&lt;p&gt;Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="Sports" /><category term="Technology" /><category term="Modern" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!</summary></entry><entry><title type="html">Jekyll Third Post Title</title><link href="http://localhost:4000/dangerous/2018/01/27/fifth-post.html" rel="alternate" type="text/html" title="Jekyll Third  Post Title" /><published>2018-01-26T17:44:23-08:00</published><updated>2018-01-26T17:44:23-08:00</updated><id>http://localhost:4000/dangerous/2018/01/27/fifth-post</id><content type="html" xml:base="http://localhost:4000/dangerous/2018/01/27/fifth-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atqu. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium illo voluptas quod rem fugit nulla veniam labore fugiat? Ad aut architecto consequatur fugit sed voluptatum eveniet voluptatem officia facere, ab!&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Doctors and nurses&lt;/strong&gt; are medical scientists.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Horticulturists and botanists&lt;/strong&gt; are scientists who study the lifecycle of plants and the science fo growing plants. They may work in greenhouses, or nurseries, or may even be landscapers.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Zoologists&lt;/strong&gt; are scientists who study animals. They often work at the zoo as animal care givers and zoo keepers.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Data Scientists&lt;/strong&gt; are scientists that perform experiments on data, mayube for artificial intelligence. Data Scientists typically work at technology companies like Amazon, Facebook, Google, and Microsoft or other companies working with data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;go-say-hi&quot;&gt;Go Say ‘Hi’&lt;/h2&gt;
+&lt;p&gt;This week you will meet a scientist at their place of work. One of the easiest scientists to meet is a doctor or nurse, like your pediatrician. Doctors and nurse use science and the &lt;em&gt;scientific method&lt;/em&gt; every day when they work with patients.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; - Doctors and nurses start by asking you questions - “Where does it hurt?” or “When did you start feeling ill?”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hypothesize&lt;/strong&gt; - After learning about your symptoms, doctors and nurses create a hypothesis based on what they already know, or from research they do about your symptoms.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Experiment&lt;/strong&gt; - Doctors and nurse do experiments to treat your symptoms, like prescribing medicine, or changing what you eat. Fortunately doctors and nurses know a lot about common injuries and illnesses, so they pick experiments that they are pretty sure will be successful.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Observe &amp;amp; record&lt;/strong&gt; - While you are following the doctor’s or nurse’s directions (experiment), they ask you to record what happens - like does the pain go away, does the redness go away.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Analyze&lt;/strong&gt; - The doctors and nurse analyze the results from their experiment to determine if it was successful or not, and whether or not more experiments need to be done.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Share results&lt;/strong&gt; - Doctors and nurses explain the results to you if needed. If your injury or illness was somewhat unique, and the doctor or nurse discovered something new (like a new treatment) then they share their results in medical papers that other doctors and nurses read. In the papers, they presenting your symptoms and their hypothesis, experiment, observations, and conclusions.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- Start Document Source Area --&gt;
+&lt;section&gt;
+    &lt;div class=&quot;document-source-area themeix-ptb&quot;&gt;
+        &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#f26c4f;&quot;&gt;&lt;i class=&quot;fa fa-film&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 1&lt;/h2&gt;
+                            &lt;p&gt;Introduction&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot; themeix-btn
+                                danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Introduction&lt;/h2&gt;
+                                &lt;p&gt;
+                                    An introduction to the &lt;i&gt;scientific method&lt;/i&gt; by watching or
+                                    reading about science and discussing it with your Nova Councelor.
+                                &lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#2196F3;&quot;&gt;&lt;i class=&quot;fa fa-flask&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 2&lt;/h2&gt;
+                            &lt;p&gt;Scientific Method&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Get
+                                Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Scientific Method&lt;/h2&gt;
+                                &lt;p&gt;You will learn and use the scientific method share your learning with your Nova
+                                    Counselor.
+                                &lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#71c668;&quot;&gt;&lt;i class=&quot;fa fa-microscope&quot;&gt;&lt;/i&gt;
+                            &lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 3&lt;/h2&gt;
+                            &lt;p&gt;Experiments&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn primary-bg&quot;&gt;Get
+                                Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Experiments&lt;/h2&gt;
+                                &lt;p&gt;Demonstrate your understanding of the &lt;i&gt;scientific method&lt;/i&gt;
+                                    and use it in a series of experiments.&lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#6600CC;&quot;&gt;&lt;i class=&quot;fa fa-user-md&quot;&gt;&lt;/i&gt;
+                            &lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 4&lt;/h2&gt;
+                            &lt;p&gt;Meet a Scientist&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn purple-bg&quot;&gt;Get
+                                Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Meet a Scientist&lt;/h2&gt;
+                                &lt;p&gt;Visit to a place where science is being done and talk to a scientist about science in
+                                    every day life.
+                                &lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- End Document Source Area --&gt;</content><author><name></name></author><category term="science" /><category term="Science" /><summary type="html">Meet a Scientist This week you will wrap up the Science Everywhere module with a visit to a place where science is done - a doctors office or clinic. This is a great place to learn how science is used in every day things.</summary></entry><entry><title type="html">Science Everywhere - Week 3</title><link href="http://localhost:4000/science/2019/03/18/science-everywhere-w3.html" rel="alternate" type="text/html" title="Science Everywhere - Week 3" /><published>2019-03-18T01:00:00-07:00</published><updated>2019-03-18T01:00:00-07:00</updated><id>http://localhost:4000/science/2019/03/18/science-everywhere-w3</id><content type="html" xml:base="http://localhost:4000/science/2019/03/18/science-everywhere-w3.html">&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;Physics is the area of science that focuses on stuff know as &lt;em&gt;matter&lt;/em&gt; and &lt;em&gt;energy&lt;/em&gt;. This week you will use the scientific method to conduct a series of physical experiments.&lt;/p&gt;
+
+&lt;p&gt;The following are the requirements addressed in Week 3.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Act like a scientist! Explore EACH of the following:
+    &lt;ul&gt;
+      &lt;li&gt;With your counselor, choose a question you would like to investigate.&lt;/li&gt;
+      &lt;li&gt;With your counselor or adult partner, use the scientific method/process to investigate your question. Keep records of your question, the information you found, how you investigated, and what you found out about your question (you may do this with another Cub Scout if you would like, but you need to do and record your own work).&lt;/li&gt;
+      &lt;li&gt;Discuss your investigation and findings with your counselor.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For the full requirements, see &lt;em&gt;&lt;a href=&quot;https://www.scouting.org/stem-nova-awards/awards/cub-scout/science-everywhere/&quot;&gt;Science Everywhere&lt;/a&gt;&lt;/em&gt; on Scouting.org.&lt;/p&gt;
+
+&lt;h1 id=&quot;will-it-sink-or-float&quot;&gt;Will it Sink or Float?&lt;/h1&gt;
+&lt;p&gt;Not everything floats. Of course, not everything sinks either. How do you know what will sink and what will float?&lt;/p&gt;
+
+&lt;h3 id=&quot;supplies&quot;&gt;Supplies&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(1) large conatainer, such as a clear vase or jar, filled with water.&lt;/li&gt;
+  &lt;li&gt;Salt (a couple of cups, depending on the size of the container).&lt;/li&gt;
+  &lt;li&gt;(2) Halos or Little Cutie oranges (one peeled, one unpeeled).&lt;/li&gt;
+  &lt;li&gt;(1) Egg.&lt;/li&gt;
+  &lt;li&gt;Any other objects that you want to test.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;1-ask-a-question&quot;&gt;1. Ask a Question&lt;/h3&gt;
+&lt;p&gt;Looking at the objects you have, you could ask something like &lt;strong&gt;will all of these float?&lt;/strong&gt; and &lt;strong&gt;what happens if there is salt in the water?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-hypothesize&quot;&gt;2. Hypothesize&lt;/h3&gt;
+&lt;p&gt;Once you have a question you can answer with an experiment, you should create a hypothesis - that is a prediction of what you &lt;em&gt;think&lt;/em&gt; will happen (for example, predicting what will sink and what will float).&lt;/p&gt;
+
+&lt;h3 id=&quot;3-experiment&quot;&gt;3. Experiment&lt;/h3&gt;
+
+&lt;p&gt;Now it is time to experiment. Follow the steps below - be sure to take good notes.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fill the continer with water if it is not already filled.&lt;/li&gt;
+  &lt;li&gt;One thing at a time, carefully drop it into the water and see what happens (observer &amp;amp; record).
+    &lt;ul&gt;
+      &lt;li&gt;Start with the unpeeled orange.&lt;/li&gt;
+      &lt;li&gt;Next try the peeled orange.&lt;/li&gt;
+      &lt;li&gt;Next try the egg.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;After taking notes, remove the objects and add salt (enough to make the water turn a bit white).&lt;/li&gt;
+  &lt;li&gt;Now try each item again - if it sank before, does it still sink? If it floated before, does it still float?&lt;/li&gt;
+  &lt;li&gt;If nothing changed, add more salt and try step 4 again.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;4-observe--record&quot;&gt;4. Observe &amp;amp; Record&lt;/h3&gt;
+&lt;p&gt;Observations are critical to science. Make sure during the experiments that you watch what is happening and take notes of your observations.&lt;/p&gt;
+
+&lt;p&gt;Things to observe:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;What was the object and did it sink or float?&lt;/li&gt;
+  &lt;li&gt;How much salt sis you add?&lt;/li&gt;
+  &lt;li&gt;Did anything change about the sinking or floating after you added salt??&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;5-analyze&quot;&gt;5. Analyze&lt;/h3&gt;
+&lt;p&gt;After you run the experiment, look over your notes and see if you can make a conclusion (that’s a fancy way to say ‘describe the science you observed’).&lt;/p&gt;
+
+&lt;h3 id=&quot;6-share-results&quot;&gt;6. Share Results&lt;/h3&gt;
+&lt;p&gt;Share your hypothesis, experiments, observations and conclusion with your Nova Counselor.&lt;/p&gt;
+
+&lt;h1 id=&quot;homework&quot;&gt;Homework&lt;/h1&gt;
+&lt;p&gt;Watch &lt;strong&gt;&lt;a href=&quot;https://vimeo.com/20320049&quot;&gt;MythBusters Waterslide Wipeout&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this episode, Adam and Jamie use the &lt;em&gt;scientific method&lt;/em&gt; to prove (or disprove) their hypothesis about a giant water slide.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/20320049&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/20320049&quot;&gt;Mythbusters Waterslide Wipeout&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user5139331&quot;&gt;Makan Films&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, you can watch any videos/shows about science for about 30-minutes (or read for 30-minutes about science.)&lt;/p&gt;
+
+&lt;p&gt;This activity will address the remaining 50% of Requirement #1.&lt;/p&gt;
+
+&lt;!-- Start Document Source Area --&gt;
+&lt;section&gt;
+    &lt;div class=&quot;document-source-area themeix-ptb&quot;&gt;
+        &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#f26c4f;&quot;&gt;&lt;i class=&quot;fa fa-film&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 1&lt;/h2&gt;
+                            &lt;p&gt;Introduction&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot; themeix-btn
+                                danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Introduction&lt;/h2&gt;
+                                &lt;p&gt;
+                                    An introduction to the &lt;i&gt;scientific method&lt;/i&gt; by watching or
+                                    reading about science and discussing it with your Nova Councelor.
+                                &lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#2196F3;&quot;&gt;&lt;i class=&quot;fa fa-flask&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 2&lt;/h2&gt;
+                            &lt;p&gt;Scientific Method&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Get
+                                Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Scientific Method&lt;/h2&gt;
+                                &lt;p&gt;You will learn and use the scientific method share your learning with your Nova
+                                    Counselor.
+                                &lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#71c668;&quot;&gt;&lt;i class=&quot;fa fa-microscope&quot;&gt;&lt;/i&gt;
+                            &lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 3&lt;/h2&gt;
+                            &lt;p&gt;Experiments&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn primary-bg&quot;&gt;Get
+                                Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Experiments&lt;/h2&gt;
+                                &lt;p&gt;Demonstrate your understanding of the &lt;i&gt;scientific method&lt;/i&gt;
+                                    and use it in a series of experiments.&lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#6600CC;&quot;&gt;&lt;i class=&quot;fa fa-user-md&quot;&gt;&lt;/i&gt;
+                            &lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 4&lt;/h2&gt;
+                            &lt;p&gt;Meet a Scientist&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn purple-bg&quot;&gt;Get
+                                Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Meet a Scientist&lt;/h2&gt;
+                                &lt;p&gt;Visit to a place where science is being done and talk to a scientist about science in
+                                    every day life.
+                                &lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- End Document Source Area --&gt;</content><author><name></name></author><category term="science" /><category term="Science" /><summary type="html">Overview Physics is the area of science that focuses on stuff know as matter and energy. This week you will use the scientific method to conduct a series of physical experiments.</summary></entry><entry><title type="html">Science Everywhere - Week 2</title><link href="http://localhost:4000/science/2019/03/11/science-everywhere-w2.html" rel="alternate" type="text/html" title="Science Everywhere - Week 2" /><published>2019-03-11T01:00:00-07:00</published><updated>2019-03-11T01:00:00-07:00</updated><id>http://localhost:4000/science/2019/03/11/science-everywhere-w2</id><content type="html" xml:base="http://localhost:4000/science/2019/03/11/science-everywhere-w2.html">&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;This week you will learn about the &lt;strong&gt;scientific method&lt;/strong&gt; and use it in an experiment.&lt;/p&gt;
+
+&lt;p&gt;The following are the requirements addressed in Week 2.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Option A: Complete all of the following:
+    &lt;ul&gt;
+      &lt;li&gt;Explain the scientific method to your adult partner.&lt;/li&gt;
+      &lt;li&gt;Use the scientific method in a simple science project. Explain the results to an adult.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For the full requirements, see &lt;em&gt;&lt;a href=&quot;https://www.scouting.org/stem-nova-awards/awards/cub-scout/science-everywhere/&quot;&gt;Science Everywhere&lt;/a&gt;&lt;/em&gt; on Scouting.org.&lt;/p&gt;
+
+&lt;h1 id=&quot;magic-inflating-balloon&quot;&gt;Magic Inflating Balloon&lt;/h1&gt;
+&lt;p&gt;Can you make a balloon inflate without using air? Sure you can! You just need to make carbon dioxide gas, which is easier than you think. When vinegar and baking soda touch, get ready to watch the reaction!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-scientific-method&quot;&gt;The Scientific Method&lt;/h2&gt;
+&lt;p&gt;Before you get to the experiment it is important to know about the &lt;em&gt;scientific method&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The scientific method is a series of steps used by scientists to determine whether a something they think (knwon as a “hypothesis”) is valid or not. It can also be used to solve everyday problems in any topic or area.&lt;/p&gt;
+
+&lt;p&gt;There are 6-steps in the scientific method.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; - Ask yourself “what do I want to learn more about?”, or “I wonder what would happen if…?”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hypothesize&lt;/strong&gt; - Do some research to make an educated guess (or hypothesis) about what you think the answer to your question is.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Experiment&lt;/strong&gt; - Test your hypothesis by doing an experiment.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Observe &amp;amp; record&lt;/strong&gt; - During your experiment, make careful observations and write down what happens.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Analyze&lt;/strong&gt; - Use the information you collected to draw conclusions about your experiment. Was your hypothesis correct?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Share results&lt;/strong&gt; - Explain your results by presenting your experiment, observations, and conclusions.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;lets-make-science&quot;&gt;Let’s Make Science&lt;/h2&gt;
+&lt;p&gt;Mixing vinegar and baking soda initiates a chemical reaction that produces carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;) and water (H&lt;sub&gt;2&lt;/sub&gt;O). The chemical names of the two ingredients are &lt;em&gt;acetic acid&lt;/em&gt;, which is vinegar, and &lt;em&gt;sodium bicarbonate&lt;/em&gt;, which is baking soda.&lt;/p&gt;
+
+&lt;h3 id=&quot;supplies&quot;&gt;Supplies&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Baking Soda&lt;/li&gt;
+  &lt;li&gt;Vinegar&lt;/li&gt;
+  &lt;li&gt;Empty Water Bottles&lt;/li&gt;
+  &lt;li&gt;Balloons&lt;/li&gt;
+  &lt;li&gt;Measuring Spoons&lt;/li&gt;
+  &lt;li&gt;Small Funnel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;1-ask-a-question&quot;&gt;1. Ask a Question&lt;/h3&gt;
+&lt;p&gt;If mixing vinegar and baking soda initiates a chemical reaction that produces carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;) and water (H&lt;sub&gt;2&lt;/sub&gt;O), &lt;strong&gt;does more baking soda create more CO&lt;sub&gt;2&lt;/sub&gt;&lt;/strong&gt;?&lt;/p&gt;
+
+&lt;h3 id=&quot;2-hypothesize&quot;&gt;2. Hypothesize&lt;/h3&gt;
+
+&lt;p&gt;Once you have a question you can answer with an experiment (for example, what happens when I mix baking soda and vinegar?), you should create a hypothesis - that is a prediction of what you &lt;em&gt;think&lt;/em&gt; will happen.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-experiment&quot;&gt;3. Experiment&lt;/h3&gt;
+
+&lt;p&gt;Now it is time to experiment. Follow the steps below to run at least three experiements, changing the amounts baking soda and vinegar you mix in each one - be sure to take good notes.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Blow up the balloon a bit to stretch it out some.&lt;/li&gt;
+  &lt;li&gt;Use the funnel and teaspoon to add baking soda to the balloon. Start with a small amount, like 2 teaspoons, and add more for each consecutive experiment.&lt;/li&gt;
+  &lt;li&gt;Fill the empty water bottle &lt;em&gt;halfway&lt;/em&gt; with vinegar.&lt;/li&gt;
+  &lt;li&gt;Attach the balloon to the bottle, making sure you have a good seal!&lt;/li&gt;
+  &lt;li&gt;Lift up the balloon to dump the baking soda into the bottle of vinegar&lt;/li&gt;
+  &lt;li&gt;Watch what happens when the two substances mix - make notes of your observations.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;4-observe--record&quot;&gt;4. Observe &amp;amp; Record&lt;/h3&gt;
+
+&lt;p&gt;Observations are critical to science. Make sure during the experiments that you watch what is happening and take notes of your observations.&lt;/p&gt;
+
+&lt;p&gt;Things to observe:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;How much vinegar did you use?&lt;/li&gt;
+  &lt;li&gt;How much Baking Soda did you use?&lt;/li&gt;
+  &lt;li&gt;What happened to the balloon?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;5-analyze&quot;&gt;5. Analyze&lt;/h3&gt;
+
+&lt;p&gt;After you run the experiment at least 3 times, look over your notes and see if you can make a conclusion (that’s a fancy way to say ‘describe the science you observed’).&lt;/p&gt;
+
+&lt;h3 id=&quot;6-share-results&quot;&gt;6. Share Results&lt;/h3&gt;
+
+&lt;p&gt;Share your hypothesis, experiments, observations and conclusion with your Nova Counselor.&lt;/p&gt;
+
+&lt;!-- Start Document Source Area --&gt;
+&lt;section&gt;
+    &lt;div class=&quot;document-source-area themeix-ptb&quot;&gt;
+        &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#f26c4f;&quot;&gt;&lt;i class=&quot;fa fa-film&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 1&lt;/h2&gt;
+                            &lt;p&gt;Introduction&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot; themeix-btn
+                                danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Introduction&lt;/h2&gt;
+                                &lt;p&gt;
+                                    An introduction to the &lt;i&gt;scientific method&lt;/i&gt; by watching or
+                                    reading about science and discussing it with your Nova Councelor.
+                                &lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#2196F3;&quot;&gt;&lt;i class=&quot;fa fa-flask&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 2&lt;/h2&gt;
+                            &lt;p&gt;Scientific Method&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Get
+                                Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Scientific Method&lt;/h2&gt;
+                                &lt;p&gt;You will learn and use the scientific method share your learning with your Nova
+                                    Counselor.
+                                &lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#71c668;&quot;&gt;&lt;i class=&quot;fa fa-microscope&quot;&gt;&lt;/i&gt;
+                            &lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 3&lt;/h2&gt;
+                            &lt;p&gt;Experiments&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn primary-bg&quot;&gt;Get
+                                Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Experiments&lt;/h2&gt;
+                                &lt;p&gt;Demonstrate your understanding of the &lt;i&gt;scientific method&lt;/i&gt;
+                                    and use it in a series of experiments.&lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#6600CC;&quot;&gt;&lt;i class=&quot;fa fa-user-md&quot;&gt;&lt;/i&gt;
+                            &lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 4&lt;/h2&gt;
+                            &lt;p&gt;Meet a Scientist&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn purple-bg&quot;&gt;Get
+                                Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Meet a Scientist&lt;/h2&gt;
+                                &lt;p&gt;Visit to a place where science is being done and talk to a scientist about science in
+                                    every day life.
+                                &lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- End Document Source Area --&gt;</content><author><name></name></author><category term="science" /><category term="Science" /><summary type="html">Overview This week you will learn about the scientific method and use it in an experiment.</summary></entry><entry><title type="html">Science Everywhere - Week 1</title><link href="http://localhost:4000/science/2019/03/04/science-everywhere-w1.html" rel="alternate" type="text/html" title="Science Everywhere - Week 1" /><published>2019-03-04T04:00:00-08:00</published><updated>2019-03-04T04:00:00-08:00</updated><id>http://localhost:4000/science/2019/03/04/science-everywhere-w1</id><content type="html" xml:base="http://localhost:4000/science/2019/03/04/science-everywhere-w1.html">&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;This module is designed to help you explore how science affects your life each day. 
+In Week 1 of the &lt;em&gt;Science Everywhere&lt;/em&gt; Nova module you will get introduced to the &lt;strong&gt;scientific method&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The following are the requirements addressed in Week 1.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Watch an episode or episodes (about one hour total) of a show about anything related to science. Then do the following:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Make a list of at least two questions or ideas from what you watched.&lt;/li&gt;
+      &lt;li&gt;Discuss two of the questions or ideas with your counselor.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For the full requirements, see &lt;em&gt;&lt;a href=&quot;https://www.scouting.org/stem-nova-awards/awards/cub-scout/science-everywhere/&quot;&gt;Science Everywhere&lt;/a&gt;&lt;/em&gt; on Scouting.org.&lt;/p&gt;
+
+&lt;h1 id=&quot;homework&quot;&gt;Homework&lt;/h1&gt;
+&lt;p&gt;Watch &lt;strong&gt;The Magic School Bus Rides Again - Season 1, Episode 8 - Three in One&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.youtube.com/embed/3MXBDtGC57U&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/3MXBDtGC57U&quot;&gt;The Magic School Bus Rides Again - Season 1, Episode 8 - Three in One&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This episode focuses on the three (3) states of H&lt;sub&gt;2&lt;/sub&gt;O - ice, water and steam. This
+is a great intro to how substances can change simply by changing something that affect them - in this case, the temperature.&lt;/p&gt;
+
+&lt;p&gt;You can watch &lt;a href=&quot;https://www.youtube.com/watch?v=XJp_x_9OVXw&quot;&gt;Do-It-Yourself Science from Bill Nye, the Science Guy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, you can watch any videos/shows about science for about 30-minutes (or read for 30-minutes about science.)&lt;/p&gt;
+
+&lt;p&gt;This activity will address 50% of Requirement #1.&lt;/p&gt;
+
+&lt;!-- Start Document Source Area --&gt;
+&lt;section&gt;
+    &lt;div class=&quot;document-source-area themeix-ptb&quot;&gt;
+        &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#f26c4f;&quot;&gt;&lt;i class=&quot;fa fa-film&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 1&lt;/h2&gt;
+                            &lt;p&gt;Introduction&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot; themeix-btn
+                                danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Introduction&lt;/h2&gt;
+                                &lt;p&gt;
+                                    An introduction to the &lt;i&gt;scientific method&lt;/i&gt; by watching or
+                                    reading about science and discussing it with your Nova Councelor.
+                                &lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#2196F3;&quot;&gt;&lt;i class=&quot;fa fa-flask&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 2&lt;/h2&gt;
+                            &lt;p&gt;Scientific Method&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Get
+                                Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Scientific Method&lt;/h2&gt;
+                                &lt;p&gt;You will learn and use the scientific method share your learning with your Nova
+                                    Counselor.
+                                &lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#71c668;&quot;&gt;&lt;i class=&quot;fa fa-microscope&quot;&gt;&lt;/i&gt;
+                            &lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 3&lt;/h2&gt;
+                            &lt;p&gt;Experiments&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn primary-bg&quot;&gt;Get
+                                Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Experiments&lt;/h2&gt;
+                                &lt;p&gt;Demonstrate your understanding of the &lt;i&gt;scientific method&lt;/i&gt;
+                                    and use it in a series of experiments.&lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#6600CC;&quot;&gt;&lt;i class=&quot;fa fa-user-md&quot;&gt;&lt;/i&gt;
+                            &lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 4&lt;/h2&gt;
+                            &lt;p&gt;Meet a Scientist&lt;/p&gt;
+                            &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn purple-bg&quot;&gt;Get
+                                Started&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Meet a Scientist&lt;/h2&gt;
+                                &lt;p&gt;Visit to a place where science is being done and talk to a scientist about science in
+                                    every day life.
+                                &lt;/p&gt;
+                                &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- End Document Source Area --&gt;</content><author><name></name></author><category term="science" /><category term="Science" /><summary type="html">Overview This module is designed to help you explore how science affects your life each day. In Week 1 of the Science Everywhere Nova module you will get introduced to the scientific method</summary></entry><entry><title type="html">Unde fugit provident eligendi officiis quae</title><link href="http://localhost:4000/sports/2018/01/27/seven.html" rel="alternate" type="text/html" title="Unde fugit provident eligendi officiis quae" /><published>2018-01-27T19:15:12-08:00</published><updated>2018-01-27T19:15:12-08:00</updated><id>http://localhost:4000/sports/2018/01/27/seven</id><content type="html" xml:base="http://localhost:4000/sports/2018/01/27/seven.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit.&lt;/p&gt;
+
+&lt;p&gt;Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="Sports" /><category term="Technology" /><category term="Modern" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!</summary></entry><entry><title type="html">Jekyll Third Post Title</title><link href="http://localhost:4000/dangerous/2018/01/26/fifth-post.html" rel="alternate" type="text/html" title="Jekyll Third  Post Title" /><published>2018-01-26T17:44:23-08:00</published><updated>2018-01-26T17:44:23-08:00</updated><id>http://localhost:4000/dangerous/2018/01/26/fifth-post</id><content type="html" xml:base="http://localhost:4000/dangerous/2018/01/26/fifth-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atqu. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium illo voluptas quod rem fugit nulla veniam labore fugiat? Ad aut architecto consequatur fugit sed voluptatum eveniet voluptatem officia facere, ab!&lt;/p&gt;
 
 &lt;p&gt;Vel, officia,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi.possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla! incidunt! Lorem ipsum dolor sit amet.&lt;/p&gt;
 
-&lt;p&gt;consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;</content><author><name></name></author><category term="Dangerous" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atqu. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium illo voluptas quod rem fugit nulla veniam labore fugiat? Ad aut architecto consequatur fugit sed voluptatum eveniet voluptatem officia facere, ab! Vel, officia,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi.possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla! incidunt! Lorem ipsum dolor sit amet. consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.</summary></entry><entry><title type="html">Jekyll Third Post Title</title><link href="http://localhost:4000/warning/2018/01/27/fourth-post.html" rel="alternate" type="text/html" title="Jekyll Third  Post Title" /><published>2018-01-26T14:44:23-08:00</published><updated>2018-01-26T14:44:23-08:00</updated><id>http://localhost:4000/warning/2018/01/27/fourth-post</id><content type="html" xml:base="http://localhost:4000/warning/2018/01/27/fourth-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi.&lt;/p&gt;
+&lt;p&gt;consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;</content><author><name></name></author><category term="Dangerous" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atqu. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium illo voluptas quod rem fugit nulla veniam labore fugiat? Ad aut architecto consequatur fugit sed voluptatum eveniet voluptatem officia facere, ab! Vel, officia,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi.possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla! incidunt! Lorem ipsum dolor sit amet. consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.</summary></entry><entry><title type="html">Jekyll Third Post Title</title><link href="http://localhost:4000/warning/2018/01/26/fourth-post.html" rel="alternate" type="text/html" title="Jekyll Third  Post Title" /><published>2018-01-26T14:44:23-08:00</published><updated>2018-01-26T14:44:23-08:00</updated><id>http://localhost:4000/warning/2018/01/26/fourth-post</id><content type="html" xml:base="http://localhost:4000/warning/2018/01/26/fourth-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi.&lt;/p&gt;
 
-&lt;p&gt;possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla! incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;</content><author><name></name></author><category term="Warning" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi. possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla! incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.</summary></entry><entry><title type="html">Jekyll Second Post</title><link href="http://localhost:4000/news/2018/01/26/second-post.html" rel="alternate" type="text/html" title="Jekyll Second Post" /><published>2018-01-25T17:42:23-08:00</published><updated>2018-01-25T17:42:23-08:00</updated><id>http://localhost:4000/news/2018/01/26/second-post</id><content type="html" xml:base="http://localhost:4000/news/2018/01/26/second-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;
+&lt;p&gt;possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla! incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;</content><author><name></name></author><category term="Warning" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi. possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla! incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.</summary></entry><entry><title type="html">Jekyll Third Post Title</title><link href="http://localhost:4000/sports/2018/01/25/six-post.html" rel="alternate" type="text/html" title="Jekyll Third  Post Title" /><published>2018-01-25T17:42:23-08:00</published><updated>2018-01-25T17:42:23-08:00</updated><id>http://localhost:4000/sports/2018/01/25/six-post</id><content type="html" xml:base="http://localhost:4000/sports/2018/01/25/six-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="News" /><category term="News" /><category term="Popular" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!</summary></entry><entry><title type="html">Jekyll Third Post Title</title><link href="http://localhost:4000/technology/2018/01/26/third-post.html" rel="alternate" type="text/html" title="Jekyll Third  Post Title" /><published>2018-01-25T17:42:23-08:00</published><updated>2018-01-25T17:42:23-08:00</updated><id>http://localhost:4000/technology/2018/01/26/third-post</id><content type="html" xml:base="http://localhost:4000/technology/2018/01/26/third-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;
+&lt;p&gt;Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="Sports" /><category term="Technology" /><category term="Modern" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!</summary></entry><entry><title type="html">Jekyll Third Post Title</title><link href="http://localhost:4000/technology/2018/01/25/third-post.html" rel="alternate" type="text/html" title="Jekyll Third  Post Title" /><published>2018-01-25T17:42:23-08:00</published><updated>2018-01-25T17:42:23-08:00</updated><id>http://localhost:4000/technology/2018/01/25/third-post</id><content type="html" xml:base="http://localhost:4000/technology/2018/01/25/third-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="Technology" /><category term="Technology" /><category term="Modern" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!</summary></entry><entry><title type="html">Jekyll Third Post Title</title><link href="http://localhost:4000/sports/2018/01/26/six-post.html" rel="alternate" type="text/html" title="Jekyll Third  Post Title" /><published>2018-01-25T17:42:23-08:00</published><updated>2018-01-25T17:42:23-08:00</updated><id>http://localhost:4000/sports/2018/01/26/six-post</id><content type="html" xml:base="http://localhost:4000/sports/2018/01/26/six-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="Technology" /><category term="Technology" /><category term="Modern" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!</summary></entry><entry><title type="html">Jekyll Second Post</title><link href="http://localhost:4000/news/2018/01/25/second-post.html" rel="alternate" type="text/html" title="Jekyll Second Post" /><published>2018-01-25T17:42:23-08:00</published><updated>2018-01-25T17:42:23-08:00</updated><id>http://localhost:4000/news/2018/01/25/second-post</id><content type="html" xml:base="http://localhost:4000/news/2018/01/25/second-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;
 
-&lt;p&gt;Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="Sports" /><category term="Technology" /><category term="Modern" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/2018/01/25/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-01-24T17:42:23-08:00</published><updated>2018-01-24T17:42:23-08:00</updated><id>http://localhost:4000/jekyll/2018/01/25/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/2018/01/25/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="welcome" /><category term="technology" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. To add new posts, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts &quot;Hi, #{name}&quot; end print_hi('Tom') #=&amp;gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.</summary></entry></feed>
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="News" /><category term="News" /><category term="Popular" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!</summary></entry></feed>
