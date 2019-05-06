@@ -23,15 +23,12 @@ For the full requirements, see *[Science Everywhere](https://www.scouting.org/st
 # Homework
 Watch **The Magic School Bus Rides Again - Season 1, Episode 8 - Three in One**. 
 
-<iframe src="https://www.youtube.com/embed/3MXBDtGC57U" width="560" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://youtu.be/3MXBDtGC57U">The Magic School Bus Rides Again - Season 1, Episode 8 - Three in One</a>.</p>
-
 This episode focuses on the three (3) states of H<sub>2</sub>O - ice, water and steam. This
 is a great intro to how substances can change simply by changing something that affect them - in this case, the temperature.
 
-You can watch [Do-It-Yourself Science from Bill Nye, the Science Guy](https://www.youtube.com/watch?v=XJp_x_9OVXw).
+<iframe src="https://www.youtube.com/embed/3MXBDtGC57U" width="560" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://youtu.be/3MXBDtGC57U">The Magic School Bus Rides Again - Season 1, Episode 8 - Three in One</a>.</p>
 
-Alternatively, you can watch any videos/shows about science for about 30-minutes (or read for 30-minutes about science.)
 
 This activity will address 50% of Requirement #1.
 
