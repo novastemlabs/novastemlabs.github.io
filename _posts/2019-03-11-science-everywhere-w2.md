@@ -36,7 +36,6 @@ There are 6-steps in the scientific method.
 6. **Share results** - Explain your results by presenting your experiment, observations, and conclusions. 
 
 
-<<<<<<< HEAD
 ## Let's Make Science
 Mixing vinegar and baking soda initiates a chemical reaction that produces carbon dioxide (CO<sub>2</sub>) and water (H<sub>2</sub>O). The chemical names of the two ingredients are *acetic acid*, which is vinegar, and *sodium bicarbonate*, which is baking soda.
 
@@ -82,38 +81,5 @@ After you run the experiment at least 3 times, look over your notes and see if y
 ### 6. Share Results
 
 Share your hypothesis, experiments, observations and conclusion with your Nova Counselor.
-=======
-## Experiment
-
-Summary
-
-### Supplies
-
-TODO
-
-### 1. Ask a Question
-
-TODO
-
-### 2. Hypothesize
-
-TODO
-
-### 3. Experiment
-
-TODO
-
-### 4. Observe & Record
-
-TODO
-
-### 5. Analyze
-
-TODO
-
-### 6. Share Results
-
-TODO
->>>>>>> 768e50ba924551c0dd3e4c3320bc72c46621d9fe
 
 {% include science_everywhere_agenda.html %}
