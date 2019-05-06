@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-06T02:37:41-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nova STEM Labs</title><subtitle>Activities and resources for Cub Scout interested in Science, Technology, Engineering or Math.</subtitle><entry><title type="html">Science Everywhere - Week 4</title><link href="http://localhost:4000/science/2019/03/25/science-everywhere-w4.html" rel="alternate" type="text/html" title="Science Everywhere - Week 4" /><published>2019-03-25T01:00:00-07:00</published><updated>2019-03-25T01:00:00-07:00</updated><id>http://localhost:4000/science/2019/03/25/science-everywhere-w4</id><content type="html" xml:base="http://localhost:4000/science/2019/03/25/science-everywhere-w4.html">&lt;h1 id=&quot;meet-a-scientist&quot;&gt;Meet a Scientist&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-06T02:38:43-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nova STEM Labs</title><subtitle>Activities and resources for Cub Scout interested in Science, Technology, Engineering or Math.</subtitle><entry><title type="html">Science Everywhere - Week 4</title><link href="http://localhost:4000/science/2019/03/25/science-everywhere-w4.html" rel="alternate" type="text/html" title="Science Everywhere - Week 4" /><published>2019-03-25T01:00:00-07:00</published><updated>2019-03-25T01:00:00-07:00</updated><id>http://localhost:4000/science/2019/03/25/science-everywhere-w4</id><content type="html" xml:base="http://localhost:4000/science/2019/03/25/science-everywhere-w4.html">&lt;h1 id=&quot;meet-a-scientist&quot;&gt;Meet a Scientist&lt;/h1&gt;
 &lt;p&gt;This week you will wrap up the &lt;em&gt;Science Everywhere&lt;/em&gt; module with a visit to a place where science is done - a doctors office or clinic. This is a great place to learn how science is used in every day things.&lt;/p&gt;
 
 &lt;h2 id=&quot;where-do-scientists-work&quot;&gt;Where Do Scientists Work?&lt;/h2&gt;
@@ -36,7 +36,11 @@
                             &lt;h2&gt;Week 1&lt;/h2&gt;
                             &lt;p&gt;Introduction&lt;/p&gt;
                             &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot; themeix-btn
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                                 danger-bg&quot;&gt;Get Started&lt;/a&gt;
+=======
+                                danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
@@ -45,7 +49,12 @@
                                     An introduction to the &lt;i&gt;scientific method&lt;/i&gt; by watching or
                                     reading about science and discussing it with your Nova Councelor.
                                 &lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -57,8 +66,13 @@
                             &lt;br /&gt;
                             &lt;h2&gt;Week 2&lt;/h2&gt;
                             &lt;p&gt;Scientific Method&lt;/p&gt;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                             &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Get
                                 Started&lt;/a&gt;
+=======
+                            &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Learn
+                                More&lt;/a&gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
@@ -66,7 +80,12 @@
                                 &lt;p&gt;You will learn and use the scientific method share your learning with your Nova
                                     Counselor.
                                 &lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -79,15 +98,24 @@
                             &lt;br /&gt;
                             &lt;h2&gt;Week 3&lt;/h2&gt;
                             &lt;p&gt;Experiments&lt;/p&gt;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                             &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn primary-bg&quot;&gt;Get
                                 Started&lt;/a&gt;
+=======
+                            &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn primary-bg&quot;&gt;Learn More&lt;/a&gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
                                 &lt;h2&gt;Experiments&lt;/h2&gt;
                                 &lt;p&gt;Demonstrate your understanding of the &lt;i&gt;scientific method&lt;/i&gt;
                                     and use it in a series of experiments.&lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -100,8 +128,13 @@
                             &lt;br /&gt;
                             &lt;h2&gt;Week 4&lt;/h2&gt;
                             &lt;p&gt;Meet a Scientist&lt;/p&gt;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                             &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn purple-bg&quot;&gt;Get
                                 Started&lt;/a&gt;
+=======
+                            &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn purple-bg&quot;&gt;Learn
+                                More&lt;/a&gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
@@ -109,7 +142,12 @@
                                 &lt;p&gt;Visit to a place where science is being done and talk to a scientist about science in
                                     every day life.
                                 &lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -118,87 +156,14 @@
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/section&gt;
-&lt;!-- End Document Source Area --&gt;</content><author><name></name></author><category term="science" /><category term="Science" /><summary type="html">Meet a Scientist This week you will wrap up the Science Everywhere module with a visit to a place where science is done - a doctors office or clinic. This is a great place to learn how science is used in every day things.</summary></entry><entry><title type="html">Science Everywhere - Week 3</title><link href="http://localhost:4000/science/2019/03/18/science-everywhere-w3.html" rel="alternate" type="text/html" title="Science Everywhere - Week 3" /><published>2019-03-18T01:00:00-07:00</published><updated>2019-03-18T01:00:00-07:00</updated><id>http://localhost:4000/science/2019/03/18/science-everywhere-w3</id><content type="html" xml:base="http://localhost:4000/science/2019/03/18/science-everywhere-w3.html">&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
-&lt;p&gt;Physics is the area of science that focuses on stuff know as &lt;em&gt;matter&lt;/em&gt; and &lt;em&gt;energy&lt;/em&gt;. This week you will use the scientific method to conduct a series of physical experiments.&lt;/p&gt;
+&lt;!-- End Document Source Area --&gt;</content><author><name></name></author><category term="science" /><category term="Science" /><summary type="html">Meet a Scientist This week you will wrap up the Science Everywhere module with a visit to a place where science is done - a doctors office or clinic. This is a great place to learn how science is used in every day things.</summary></entry><entry><title type="html">Science Everywhere - Week 3</title><link href="http://localhost:4000/science/2019/03/18/science-everywhere-w3.html" rel="alternate" type="text/html" title="Science Everywhere - Week 3" /><published>2019-03-18T01:00:00-07:00</published><updated>2019-03-18T01:00:00-07:00</updated><id>http://localhost:4000/science/2019/03/18/science-everywhere-w3</id><content type="html" xml:base="http://localhost:4000/science/2019/03/18/science-everywhere-w3.html">&lt;h1 id=&quot;will-it-sink-or-float&quot;&gt;Will it Sink or Float?&lt;/h1&gt;
+&lt;p&gt;Physics is the area of science that focuses on stuff know as &lt;em&gt;matter&lt;/em&gt; and &lt;em&gt;energy&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;The following are the requirements addressed in Week 3.&lt;/p&gt;
+&lt;p&gt;This week you will use the scientific method to conduct a series of physics experiments.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Act like a scientist! Explore EACH of the following:
-    &lt;ul&gt;
-      &lt;li&gt;With your counselor, choose a question you would like to investigate.&lt;/li&gt;
-      &lt;li&gt;With your counselor or adult partner, use the scientific method/process to investigate your question. Keep records of your question, the information you found, how you investigated, and what you found out about your question (you may do this with another Cub Scout if you would like, but you need to do and record your own work).&lt;/li&gt;
-      &lt;li&gt;Discuss your investigation and findings with your counselor.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;
 
-&lt;p&gt;For the full requirements, see &lt;em&gt;&lt;a href=&quot;https://www.scouting.org/stem-nova-awards/awards/cub-scout/science-everywhere/&quot;&gt;Science Everywhere&lt;/a&gt;&lt;/em&gt; on Scouting.org.&lt;/p&gt;
-
-&lt;h1 id=&quot;will-it-sink-or-float&quot;&gt;Will it Sink or Float?&lt;/h1&gt;
-&lt;p&gt;Not everything floats. Of course, not everything sinks either. How do you know what will sink and what will float?&lt;/p&gt;
-
-&lt;h3 id=&quot;supplies&quot;&gt;Supplies&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;(1) large conatainer, such as a clear vase or jar, filled with water.&lt;/li&gt;
-  &lt;li&gt;Salt (a couple of cups, depending on the size of the container).&lt;/li&gt;
-  &lt;li&gt;(2) Halos or Little Cutie oranges (one peeled, one unpeeled).&lt;/li&gt;
-  &lt;li&gt;(1) Egg.&lt;/li&gt;
-  &lt;li&gt;Any other objects that you want to test.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;1-ask-a-question&quot;&gt;1. Ask a Question&lt;/h3&gt;
-&lt;p&gt;Looking at the objects you have, you could ask something like &lt;strong&gt;will all of these float?&lt;/strong&gt; and &lt;strong&gt;what happens if there is salt in the water?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;2-hypothesize&quot;&gt;2. Hypothesize&lt;/h3&gt;
-&lt;p&gt;Once you have a question you can answer with an experiment, you should create a hypothesis - that is a prediction of what you &lt;em&gt;think&lt;/em&gt; will happen (for example, predicting what will sink and what will float).&lt;/p&gt;
-
-&lt;h3 id=&quot;3-experiment&quot;&gt;3. Experiment&lt;/h3&gt;
-
-&lt;p&gt;Now it is time to experiment. Follow the steps below - be sure to take good notes.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Fill the continer with water if it is not already filled.&lt;/li&gt;
-  &lt;li&gt;One thing at a time, carefully drop it into the water and see what happens (observer &amp;amp; record).
-    &lt;ul&gt;
-      &lt;li&gt;Start with the unpeeled orange.&lt;/li&gt;
-      &lt;li&gt;Next try the peeled orange.&lt;/li&gt;
-      &lt;li&gt;Next try the egg.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;After taking notes, remove the objects and add salt (enough to make the water turn a bit white).&lt;/li&gt;
-  &lt;li&gt;Now try each item again - if it sank before, does it still sink? If it floated before, does it still float?&lt;/li&gt;
-  &lt;li&gt;If nothing changed, add more salt and try step 4 again.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;4-observe--record&quot;&gt;4. Observe &amp;amp; Record&lt;/h3&gt;
-&lt;p&gt;Observations are critical to science. Make sure during the experiments that you watch what is happening and take notes of your observations.&lt;/p&gt;
-
-&lt;p&gt;Things to observe:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;What was the object and did it sink or float?&lt;/li&gt;
-  &lt;li&gt;How much salt sis you add?&lt;/li&gt;
-  &lt;li&gt;Did anything change about the sinking or floating after you added salt??&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;5-analyze&quot;&gt;5. Analyze&lt;/h3&gt;
-&lt;p&gt;After you run the experiment, look over your notes and see if you can make a conclusion (that’s a fancy way to say ‘describe the science you observed’).&lt;/p&gt;
-
-&lt;h3 id=&quot;6-share-results&quot;&gt;6. Share Results&lt;/h3&gt;
-&lt;p&gt;Share your hypothesis, experiments, observations and conclusion with your Nova Counselor.&lt;/p&gt;
-
-&lt;h1 id=&quot;homework&quot;&gt;Homework&lt;/h1&gt;
-&lt;p&gt;Watch &lt;strong&gt;&lt;a href=&quot;https://vimeo.com/20320049&quot;&gt;MythBusters Waterslide Wipeout&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;In this episode, Adam and Jamie use the &lt;em&gt;scientific method&lt;/em&gt; to prove (or disprove) their hypothesis about a giant water slide.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/20320049&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/20320049&quot;&gt;Mythbusters Waterslide Wipeout&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user5139331&quot;&gt;Makan Films&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Alternatively, you can watch any videos/shows about science for about 30-minutes (or read for 30-minutes about science.)&lt;/p&gt;
-
-&lt;p&gt;This activity will address the remaining 50% of Requirement #1.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;
 
 &lt;!-- Start Document Source Area --&gt;
 &lt;section&gt;
@@ -213,7 +178,11 @@
                             &lt;h2&gt;Week 1&lt;/h2&gt;
                             &lt;p&gt;Introduction&lt;/p&gt;
                             &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot; themeix-btn
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                                 danger-bg&quot;&gt;Get Started&lt;/a&gt;
+=======
+                                danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
@@ -222,7 +191,12 @@
                                     An introduction to the &lt;i&gt;scientific method&lt;/i&gt; by watching or
                                     reading about science and discussing it with your Nova Councelor.
                                 &lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -234,8 +208,13 @@
                             &lt;br /&gt;
                             &lt;h2&gt;Week 2&lt;/h2&gt;
                             &lt;p&gt;Scientific Method&lt;/p&gt;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                             &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Get
                                 Started&lt;/a&gt;
+=======
+                            &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Learn
+                                More&lt;/a&gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
@@ -243,7 +222,12 @@
                                 &lt;p&gt;You will learn and use the scientific method share your learning with your Nova
                                     Counselor.
                                 &lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -256,15 +240,24 @@
                             &lt;br /&gt;
                             &lt;h2&gt;Week 3&lt;/h2&gt;
                             &lt;p&gt;Experiments&lt;/p&gt;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                             &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn primary-bg&quot;&gt;Get
                                 Started&lt;/a&gt;
+=======
+                            &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn primary-bg&quot;&gt;Learn More&lt;/a&gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
                                 &lt;h2&gt;Experiments&lt;/h2&gt;
                                 &lt;p&gt;Demonstrate your understanding of the &lt;i&gt;scientific method&lt;/i&gt;
                                     and use it in a series of experiments.&lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -277,8 +270,13 @@
                             &lt;br /&gt;
                             &lt;h2&gt;Week 4&lt;/h2&gt;
                             &lt;p&gt;Meet a Scientist&lt;/p&gt;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                             &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn purple-bg&quot;&gt;Get
                                 Started&lt;/a&gt;
+=======
+                            &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn purple-bg&quot;&gt;Learn
+                                More&lt;/a&gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
@@ -286,7 +284,12 @@
                                 &lt;p&gt;Visit to a place where science is being done and talk to a scientist about science in
                                     every day life.
                                 &lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -295,7 +298,7 @@
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/section&gt;
-&lt;!-- End Document Source Area --&gt;</content><author><name></name></author><category term="science" /><category term="Science" /><summary type="html">Overview Physics is the area of science that focuses on stuff know as matter and energy. This week you will use the scientific method to conduct a series of physical experiments.</summary></entry><entry><title type="html">Science Everywhere - Week 2</title><link href="http://localhost:4000/science/2019/03/11/science-everywhere-w2.html" rel="alternate" type="text/html" title="Science Everywhere - Week 2" /><published>2019-03-11T01:00:00-07:00</published><updated>2019-03-11T01:00:00-07:00</updated><id>http://localhost:4000/science/2019/03/11/science-everywhere-w2</id><content type="html" xml:base="http://localhost:4000/science/2019/03/11/science-everywhere-w2.html">&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+&lt;!-- End Document Source Area --&gt;</content><author><name></name></author><category term="science" /><category term="Science" /><summary type="html">Will it Sink or Float? Physics is the area of science that focuses on stuff know as matter and energy.</summary></entry><entry><title type="html">Science Everywhere - Week 2</title><link href="http://localhost:4000/science/2019/03/11/science-everywhere-w2.html" rel="alternate" type="text/html" title="Science Everywhere - Week 2" /><published>2019-03-11T01:00:00-07:00</published><updated>2019-03-11T01:00:00-07:00</updated><id>http://localhost:4000/science/2019/03/11/science-everywhere-w2</id><content type="html" xml:base="http://localhost:4000/science/2019/03/11/science-everywhere-w2.html">&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
 &lt;p&gt;This week you will learn about the &lt;strong&gt;scientific method&lt;/strong&gt; and use it in an experiment.&lt;/p&gt;
 
 &lt;p&gt;The following are the requirements addressed in Week 2.&lt;/p&gt;
@@ -330,6 +333,7 @@
   &lt;li&gt;&lt;strong&gt;Share results&lt;/strong&gt; - Explain your results by presenting your experiment, observations, and conclusions.&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;p&gt;«««&amp;lt; HEAD&lt;/p&gt;
 &lt;h2 id=&quot;lets-make-science&quot;&gt;Let’s Make Science&lt;/h2&gt;
 &lt;p&gt;Mixing vinegar and baking soda initiates a chemical reaction that produces carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;) and water (H&lt;sub&gt;2&lt;/sub&gt;O). The chemical names of the two ingredients are &lt;em&gt;acetic acid&lt;/em&gt;, which is vinegar, and &lt;em&gt;sodium bicarbonate&lt;/em&gt;, which is baking soda.&lt;/p&gt;
 
@@ -380,7 +384,53 @@
 
 &lt;h3 id=&quot;6-share-results&quot;&gt;6. Share Results&lt;/h3&gt;
 
-&lt;p&gt;Share your hypothesis, experiments, observations and conclusion with your Nova Counselor.&lt;/p&gt;
+&lt;h1 id=&quot;share-your-hypothesis-experiments-observations-and-conclusion-with-your-nova-counselor&quot;&gt;Share your hypothesis, experiments, observations and conclusion with your Nova Counselor.&lt;/h1&gt;
+&lt;h2 id=&quot;experiment&quot;&gt;Experiment&lt;/h2&gt;
+
+&lt;p&gt;Summary&lt;/p&gt;
+
+&lt;h3 id=&quot;supplies-1&quot;&gt;Supplies&lt;/h3&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+
+&lt;h3 id=&quot;1-ask-a-question-1&quot;&gt;1. Ask a Question&lt;/h3&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+
+&lt;h3 id=&quot;2-hypothesize-1&quot;&gt;2. Hypothesize&lt;/h3&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+
+&lt;h3 id=&quot;3-experiment-1&quot;&gt;3. Experiment&lt;/h3&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+
+&lt;h3 id=&quot;4-observe--record-1&quot;&gt;4. Observe &amp;amp; Record&lt;/h3&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+
+&lt;h3 id=&quot;5-analyze-1&quot;&gt;5. Analyze&lt;/h3&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+
+&lt;h3 id=&quot;6-share-results-1&quot;&gt;6. Share Results&lt;/h3&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;blockquote&gt;
+      &lt;blockquote&gt;
+        &lt;blockquote&gt;
+          &lt;blockquote&gt;
+            &lt;blockquote&gt;
+              &lt;p&gt;768e50ba924551c0dd3e4c3320bc72c46621d9fe&lt;/p&gt;
+            &lt;/blockquote&gt;
+          &lt;/blockquote&gt;
+        &lt;/blockquote&gt;
+      &lt;/blockquote&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
 
 &lt;!-- Start Document Source Area --&gt;
 &lt;section&gt;
@@ -395,7 +445,11 @@
                             &lt;h2&gt;Week 1&lt;/h2&gt;
                             &lt;p&gt;Introduction&lt;/p&gt;
                             &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot; themeix-btn
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                                 danger-bg&quot;&gt;Get Started&lt;/a&gt;
+=======
+                                danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
@@ -404,7 +458,12 @@
                                     An introduction to the &lt;i&gt;scientific method&lt;/i&gt; by watching or
                                     reading about science and discussing it with your Nova Councelor.
                                 &lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -416,8 +475,13 @@
                             &lt;br /&gt;
                             &lt;h2&gt;Week 2&lt;/h2&gt;
                             &lt;p&gt;Scientific Method&lt;/p&gt;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                             &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Get
                                 Started&lt;/a&gt;
+=======
+                            &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Learn
+                                More&lt;/a&gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
@@ -425,7 +489,12 @@
                                 &lt;p&gt;You will learn and use the scientific method share your learning with your Nova
                                     Counselor.
                                 &lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -438,15 +507,24 @@
                             &lt;br /&gt;
                             &lt;h2&gt;Week 3&lt;/h2&gt;
                             &lt;p&gt;Experiments&lt;/p&gt;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                             &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn primary-bg&quot;&gt;Get
                                 Started&lt;/a&gt;
+=======
+                            &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn primary-bg&quot;&gt;Learn More&lt;/a&gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
                                 &lt;h2&gt;Experiments&lt;/h2&gt;
                                 &lt;p&gt;Demonstrate your understanding of the &lt;i&gt;scientific method&lt;/i&gt;
                                     and use it in a series of experiments.&lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -459,8 +537,13 @@
                             &lt;br /&gt;
                             &lt;h2&gt;Week 4&lt;/h2&gt;
                             &lt;p&gt;Meet a Scientist&lt;/p&gt;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                             &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn purple-bg&quot;&gt;Get
                                 Started&lt;/a&gt;
+=======
+                            &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn purple-bg&quot;&gt;Learn
+                                More&lt;/a&gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
@@ -468,7 +551,12 @@
                                 &lt;p&gt;Visit to a place where science is being done and talk to a scientist about science in
                                     every day life.
                                 &lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -497,19 +585,54 @@ In Week 1 of the &lt;em&gt;Science Everywhere&lt;/em&gt; Nova module you will ge
 &lt;p&gt;For the full requirements, see &lt;em&gt;&lt;a href=&quot;https://www.scouting.org/stem-nova-awards/awards/cub-scout/science-everywhere/&quot;&gt;Science Everywhere&lt;/a&gt;&lt;/em&gt; on Scouting.org.&lt;/p&gt;
 
 &lt;h1 id=&quot;homework&quot;&gt;Homework&lt;/h1&gt;
-&lt;p&gt;Watch &lt;strong&gt;The Magic School Bus Rides Again - Season 1, Episode 8 - Three in One&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;«««&amp;lt; HEAD
+Watch &lt;strong&gt;The Magic School Bus Rides Again - Season 1, Episode 8 - Three in One&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://www.youtube.com/embed/3MXBDtGC57U&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://youtu.be/3MXBDtGC57U&quot;&gt;The Magic School Bus Rides Again - Season 1, Episode 8 - Three in One&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;=======
+Watch &lt;strong&gt;&lt;a href=&quot;https://www.netflix.com/watch/80108277&quot;&gt;The Magic School Bus Rides Again - Season 1, Episode 8 - Three in One&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;blockquote&gt;
+      &lt;blockquote&gt;
+        &lt;blockquote&gt;
+          &lt;blockquote&gt;
+            &lt;blockquote&gt;
+              &lt;p&gt;768e50ba924551c0dd3e4c3320bc72c46621d9fe&lt;/p&gt;
+            &lt;/blockquote&gt;
+          &lt;/blockquote&gt;
+        &lt;/blockquote&gt;
+      &lt;/blockquote&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;This episode focuses on the three (3) states of H&lt;sub&gt;2&lt;/sub&gt;O - ice, water and steam. This
 is a great intro to how substances can change simply by changing something that affect them - in this case, the temperature.&lt;/p&gt;
 
-&lt;p&gt;You can watch &lt;a href=&quot;https://www.youtube.com/watch?v=XJp_x_9OVXw&quot;&gt;Do-It-Yourself Science from Bill Nye, the Science Guy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;«««&amp;lt; HEAD
+You can watch &lt;a href=&quot;https://www.youtube.com/watch?v=XJp_x_9OVXw&quot;&gt;Do-It-Yourself Science from Bill Nye, the Science Guy&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Alternatively, you can watch any videos/shows about science for about 30-minutes (or read for 30-minutes about science.)&lt;/p&gt;
 
-&lt;p&gt;This activity will address 50% of Requirement #1.&lt;/p&gt;
+&lt;p&gt;=======&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;blockquote&gt;
+      &lt;blockquote&gt;
+        &lt;blockquote&gt;
+          &lt;blockquote&gt;
+            &lt;blockquote&gt;
+              &lt;p&gt;768e50ba924551c0dd3e4c3320bc72c46621d9fe
+This activity will address 50% of Requirement #1.&lt;/p&gt;
+            &lt;/blockquote&gt;
+          &lt;/blockquote&gt;
+        &lt;/blockquote&gt;
+      &lt;/blockquote&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
 
 &lt;!-- Start Document Source Area --&gt;
 &lt;section&gt;
@@ -524,7 +647,11 @@ is a great intro to how substances can change simply by changing something that 
                             &lt;h2&gt;Week 1&lt;/h2&gt;
                             &lt;p&gt;Introduction&lt;/p&gt;
                             &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot; themeix-btn
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                                 danger-bg&quot;&gt;Get Started&lt;/a&gt;
+=======
+                                danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
@@ -533,7 +660,12 @@ is a great intro to how substances can change simply by changing something that 
                                     An introduction to the &lt;i&gt;scientific method&lt;/i&gt; by watching or
                                     reading about science and discussing it with your Nova Councelor.
                                 &lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/04/science-everywhere-w1.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -545,8 +677,13 @@ is a great intro to how substances can change simply by changing something that 
                             &lt;br /&gt;
                             &lt;h2&gt;Week 2&lt;/h2&gt;
                             &lt;p&gt;Scientific Method&lt;/p&gt;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                             &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Get
                                 Started&lt;/a&gt;
+=======
+                            &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Learn
+                                More&lt;/a&gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
@@ -554,7 +691,12 @@ is a great intro to how substances can change simply by changing something that 
                                 &lt;p&gt;You will learn and use the scientific method share your learning with your Nova
                                     Counselor.
                                 &lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/11/science-everywhere-w2.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -567,15 +709,24 @@ is a great intro to how substances can change simply by changing something that 
                             &lt;br /&gt;
                             &lt;h2&gt;Week 3&lt;/h2&gt;
                             &lt;p&gt;Experiments&lt;/p&gt;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                             &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn primary-bg&quot;&gt;Get
                                 Started&lt;/a&gt;
+=======
+                            &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn primary-bg&quot;&gt;Learn More&lt;/a&gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
                                 &lt;h2&gt;Experiments&lt;/h2&gt;
                                 &lt;p&gt;Demonstrate your understanding of the &lt;i&gt;scientific method&lt;/i&gt;
                                     and use it in a series of experiments.&lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/18/science-everywhere-w3.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -588,8 +739,13 @@ is a great intro to how substances can change simply by changing something that 
                             &lt;br /&gt;
                             &lt;h2&gt;Week 4&lt;/h2&gt;
                             &lt;p&gt;Meet a Scientist&lt;/p&gt;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
                             &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn purple-bg&quot;&gt;Get
                                 Started&lt;/a&gt;
+=======
+                            &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn purple-bg&quot;&gt;Learn
+                                More&lt;/a&gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                         &lt;/div&gt;
                         &lt;div class=&quot;box-flip&quot;&gt;
                             &lt;div class=&quot;flip-box-innner&quot;&gt;
@@ -597,7 +753,12 @@ is a great intro to how substances can change simply by changing something that 
                                 &lt;p&gt;Visit to a place where science is being done and talk to a scientist about science in
                                     every day life.
                                 &lt;/p&gt;
-                                &lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get Started&lt;/a&gt;
+                                &amp;lt;a href=&quot;/science/2019/03/25/science-everywhere-w4.html&quot;
+&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Get Started&amp;lt;/a&amp;gt;
+=======
+                                    class=&quot;themeix-btn danger-bg&quot;&amp;gt;Learn More&amp;lt;/a&amp;gt;
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 768e50ba924551c0dd3e4c3320bc72c46621d9fe
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
