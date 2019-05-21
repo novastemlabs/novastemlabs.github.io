@@ -15,7 +15,8 @@
                     <div class="mainmenu">
                         <div class="navbar navbar-right">
                             <div class="navbar-header visible-xs">
-                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse"
+                                    data-target=".navbar-collapse">
                                     <span class="sr-only">Toggle navigation</span>
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
@@ -24,7 +25,7 @@
                             </div>
                             <div class="collapse navbar-collapse top-menu">
 
-                           <!--  Static Dropdown Menu 
+                                <!--  Static Dropdown Menu 
 
                                 <nav>
                                     <ul class="nav navbar-nav">
@@ -73,49 +74,60 @@
                                 <nav>
                                     <ul class="nav navbar-nav">
                                         <li>
-                                             <a href="/pages/science.html">S
+                                            <a href="/pages/science.html">S
                                                 <span>Science</span>
                                             </a>
                                         </li>
                                         <li>
-                                                <a href="/pages/technology.html">T
-                                                   <span>Technology</span>
-                                               </a>
-                                           </li>
-                                           <li>
-                                                <a href="/pages/index.html">E
-                                                   <span>Engineering</span>
-                                               </a>
-                                           </li>
-                                           <li>
-                                                <a href="/pages/index.html">M
-                                                   <span>Math</span>
-                                               </a>
-                                           </li>
-                                           <!--
-
+                                            <a href="/pages/technology.html">T
+                                                <span>Technology</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/pages/engineering.html">E
+                                                <span>Engineering</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/pages/mathematics.html">M
+                                                <span>Mathematics</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/pages/supernova.html">SUPERNOVA
+                                                <span>Supernova</span>
+                                            </a>
+                                        </li>
+                                        <!--
+                                            <li>
+                                            <a href="/pages/supernova.html"><div 
+                                                class="icons" 
+                                                style="font-size: 50px; color:#71c668;"><i 
+                                                class="fa fa-haykal"></i></div><span>Supernova</span> 
+                                            </a>
+                                        </li>
                                            <li>
                                                 <a href="/pages/stem-day.html">05.05.19
                                                    <span>Nova STEM Day</span>
                                                </a>
                                            </li>
                                            -->
-                                    {% for pageinfo in site.pages %}
-                                    {% if pageinfo.navigation == true %}
-                                     <li>
-                                        <a href="{{pageinfo.url}}">{{pageinfo.title}}
-                                          <span>{{pageinfo.sub_title}}</span>
-                                        </a>
-                                     </li>
-                                    {% endif %}
-                                    {% endfor %}
-                                     <!--<li>
+                                        {% for pageinfo in site.pages %}
+                                        {% if pageinfo.navigation == true %}
+                                        <li>
+                                            <a href="{{pageinfo.url}}">{{pageinfo.title}}
+                                                <span>{{pageinfo.sub_title}}</span>
+                                            </a>
+                                        </li>
+                                        {% endif %}
+                                        {% endfor %}
+                                        <!--<li>
                                         <a href="/pages/index.html">Blog
                                           <span>Blog Posts</span>
                                         </a>
                                       </li>
                                       -->
-                                     </ul>
+                                    </ul>
                                 </nav>
                             </div>
                         </div>
@@ -136,7 +148,7 @@
                     <ul>
                         <li><a href="index.html">Home Version 1</a></li>
                         <li><a href="index-2.html">Home Version 2</a></li>
-                    </ul>                       
+                    </ul>
                 </li>
                 <li><a href="about-us.html">About</a></li>
                 <li><a href="#">Questions</a>
@@ -145,25 +157,25 @@
                         <li><a href="ask-question.html">Ask Questions</a></li>
                         <li><a href="answers.html">Answers</a></li>
                         <li><a href="login.html">Login</a></li>
-                        <li><a href="register.html">Register</a></li>                               
+                        <li><a href="register.html">Register</a></li>
                     </ul>
                 </li>
                 <li><a href="#">Pages</a>
                     <ul>
-                       <li><a href="index-2.html">Home 2</a></li>
-                       <li><a href="blog.html">Blog</a></li>
-                       <li><a href="blog-details.html">Blog Details</a></li>
-                       <li><a href="questions.html">Questions</a></li>
-                       <li><a href="answers.html">Answers</a></li>
-                       <li><a href="updates.html">Updates</a></li>
-                       <li><a href="contact.html">Contact</a></li>
-                       <li><a href="left-sidebar.html">Left Sidebar</a></li>
-                       <li><a href="right-sidebar.html">Right Sidebar</a></li>
-                       <li><a href="login.html">login</a></li>
-                       <li><a href="register.html">Register</a></li>
-                       <li><a href="404.html">404</a></li>                          
+                        <li><a href="index-2.html">Home 2</a></li>
+                        <li><a href="blog.html">Blog</a></li>
+                        <li><a href="blog-details.html">Blog Details</a></li>
+                        <li><a href="questions.html">Questions</a></li>
+                        <li><a href="answers.html">Answers</a></li>
+                        <li><a href="updates.html">Updates</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="left-sidebar.html">Left Sidebar</a></li>
+                        <li><a href="right-sidebar.html">Right Sidebar</a></li>
+                        <li><a href="login.html">login</a></li>
+                        <li><a href="register.html">Register</a></li>
+                        <li><a href="404.html">404</a></li>
                     </ul>
-                </li>                       
+                </li>
                 <li><a href="blog.html">Blog</a></li>
                 <li><a href="updates.html">Updates</a></li>
                 <li><a href="contact.html">Contact</a></li>
