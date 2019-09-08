@@ -1,0 +1,4 @@
+<iframe src="https://www.youtube.com/embed/{{ include.youtube_id }}?start={{ include.youtube_start }}" width="560" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+{% if(include.youtube_title != "") %}
+<p><a href="https://youtu.be/{{ include.youtube_id }}">{{ include.youtube_title }}</a></p>
+{% endif %}

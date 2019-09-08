@@ -31,18 +31,21 @@ plugins:
 
 # Custom Collection
 collections:
-  category_one:
+  science:
     output: true
     permalink: /science/:path
-  category_two:
+  technology:
     output: true
     permalink: /technology/:path
-  category_three:
+  engineering:
     output: true
     permalink: /engineering/:path
-  category_four:
+  mathematics:
     output: true
-    permalink: /math/:path
+    permalink: /mathematics/:path
+  supernova:
+    output: true
+    permalink: '/supernova/:path'
   updates:
     output: true
     permalink: '/updates/:path'

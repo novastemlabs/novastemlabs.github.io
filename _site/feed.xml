@@ -1,130 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-21T00:02:59-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nova STEM Labs</title><subtitle>Activities and resources for Cub Scout interested in Science, Technology, Engineering or Math.</subtitle><entry><title type="html">1-2-3 Go! - Week 1</title><link href="http://localhost:4000/mathematics/2019/04/01/1-2-3-go-w1.html" rel="alternate" type="text/html" title="1-2-3 Go! - Week 1" /><published>2019-04-01T05:00:00-07:00</published><updated>2019-04-01T05:00:00-07:00</updated><id>http://localhost:4000/mathematics/2019/04/01/1-2-3-go-w1</id><content type="html" xml:base="http://localhost:4000/mathematics/2019/04/01/1-2-3-go-w1.html">&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
-&lt;p&gt;This module is designed to help you explore how mathematics affects your life each day. 
-In Week 1 of the &lt;em&gt;1-2-3 Go!&lt;/em&gt; Nova module you will get introduced to how numbers came to be.&lt;/p&gt;
-
-&lt;p&gt;The following are the requirements addressed in Week 1.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Watch an episode or episodes (about one hour total) of a show about anything related to math. Then do the following:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Make a list of at least two questions or ideas from what you watched.&lt;/li&gt;
-      &lt;li&gt;Discuss two of the questions or ideas with your counselor.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;For the full requirements, see &lt;em&gt;&lt;a href=&quot;https://www.scouting.org/stem-nova-awards/awards/cub-scout/1-2-3-go/&quot;&gt;1-2-3 Go!&lt;/a&gt;&lt;/em&gt; on Scouting.org.&lt;/p&gt;
-
-&lt;h1 id=&quot;homework&quot;&gt;Homework&lt;/h1&gt;
-&lt;p&gt;Watch the first half (30-minutes) of &lt;strong&gt;The Story of 1 (One the number)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;The &lt;em&gt;Story of 1&lt;/em&gt; is a BBC documentary about the history of numbers, and in particular, the number 1. It was presented by former Monty Python member Terry Jones. It was released in 2005.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.youtube.com/embed/ojqfwtwitMI?start=9&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;This activity will address 50% of Requirement #1. You will watch the second half in Week 3.&lt;/p&gt;
-
-&lt;!-- Start 1-2-3 Go! Agenda --&gt;
-&lt;section&gt;
-    &lt;div class=&quot;document-source-area themeix-ptb&quot;&gt;
-        &lt;div class=&quot;container&quot;&gt;
-            &lt;div class=&quot;row&quot;&gt;
-                &lt;div class=&quot;col-xs-3&quot;&gt;
-                    &lt;div class=&quot;single-box&quot;&gt;
-                        &lt;div class=&quot;box-inner&quot;&gt;
-                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#f26c4f;&quot;&gt;&lt;i class=&quot;fa fa-film&quot;&gt;&lt;/i&gt;&lt;/div&gt;
-                            &lt;br /&gt;
-                            &lt;h2&gt;Week 1&lt;/h2&gt;
-                            &lt;p&gt;Introduction&lt;/p&gt;
-                            &lt;a href=&quot;/mathematics/2019/04/01/1-2-3-go-w1.html&quot; class=&quot; themeix-btn
-                                danger-bg&quot;&gt;Get Started&lt;/a&gt;
-                        &lt;/div&gt;
-                        &lt;div class=&quot;box-flip&quot;&gt;
-                            &lt;div class=&quot;flip-box-innner&quot;&gt;
-                                &lt;h2&gt;Introduction&lt;/h2&gt;
-                                &lt;p&gt;
-                                    An introduction to the power of numbers and mathematics by watching or
-                                    reading about number and discussing it with your Nova Councelor.
-                                &lt;/p&gt;
-                                &lt;a href=&quot;/mathematics/2019/04/01/1-2-3-go-w1.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get
-                                    Started&lt;/a&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-xs-3&quot;&gt;
-                    &lt;div class=&quot;single-box&quot;&gt;
-                        &lt;div class=&quot;box-inner&quot;&gt;
-                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#2196F3;&quot;&gt;&lt;i class=&quot;fa fa-robot&quot;&gt;&lt;/i&gt;&lt;/div&gt;
-                            &lt;br /&gt;
-                            &lt;h2&gt;Week 2&lt;/h2&gt;
-                            &lt;p&gt;Adventure&lt;/p&gt;
-                            &lt;a href=&quot;/mathematics/2019/04/08/1-2-3-go-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Get
-                                Started&lt;/a&gt;
-                        &lt;/div&gt;
-                        &lt;div class=&quot;box-flip&quot;&gt;
-                            &lt;div class=&quot;flip-box-innner&quot;&gt;
-                                &lt;h2&gt;Adventure&lt;/h2&gt;
-                                &lt;p&gt;You will complete the Wolf, Bear or Webelos adventure for this Nova award.
-                                &lt;/p&gt;
-                                &lt;a href=&quot;/mathematics/2019/04/08/1-2-3-go-w2.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get
-                                    Started&lt;/a&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-xs-3&quot;&gt;
-                    &lt;div class=&quot;single-box&quot;&gt;
-                        &lt;div class=&quot;box-inner&quot;&gt;
-                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#71c668;&quot;&gt;&lt;i class=&quot;fa fa-superscript&quot;&gt;&lt;/i&gt;
-                            &lt;/div&gt;
-                            &lt;br /&gt;
-                            &lt;h2&gt;Week 3&lt;/h2&gt;
-                            &lt;p&gt;Do Math&lt;/p&gt;
-                            &lt;a href=&quot;/mathematics/2019/04/15/1-2-3-go-w3.html&quot; class=&quot;themeix-btn primary-bg&quot;&gt;Get
-                                Started&lt;/a&gt;
-                        &lt;/div&gt;
-                        &lt;div class=&quot;box-flip&quot;&gt;
-                            &lt;div class=&quot;flip-box-innner&quot;&gt;
-                                &lt;h2&gt;Do Math&lt;/h2&gt;
-                                &lt;p&gt;Use the power of mathematics to figure out something that you can't measure - how
-                                    much you weigh on another planet.&lt;/p&gt;
-                                &lt;a href=&quot;/mathematics/2019/04/15/1-2-3-go-w3.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get
-                                    Started&lt;/a&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-xs-3&quot;&gt;
-                    &lt;div class=&quot;single-box&quot;&gt;
-                        &lt;div class=&quot;box-inner&quot;&gt;
-                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#6600CC;&quot;&gt;&lt;i class=&quot;fa fa-user-secret&quot;&gt;&lt;/i&gt;
-                            &lt;/div&gt;
-                            &lt;br /&gt;
-                            &lt;h2&gt;Week 4&lt;/h2&gt;
-                            &lt;p&gt;Secret Codes&lt;/p&gt;
-                            &lt;a href=&quot;/mathematics/2019/04/22/1-2-3-go-w4.html&quot; class=&quot;themeix-btn purple-bg&quot;&gt;Get
-                                Started&lt;/a&gt;
-                        &lt;/div&gt;
-                        &lt;div class=&quot;box-flip&quot;&gt;
-                            &lt;div class=&quot;flip-box-innner&quot;&gt;
-                                &lt;h2&gt;Secret Codes&lt;/h2&gt;
-                                &lt;p&gt;Use mathematics to create a secret code and send a message to a friend. Teach them
-                                    how to decode your message.
-                                &lt;/p&gt;
-                                &lt;a href=&quot;/mathematics/2019/04/22/1-2-3-go-w4.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Get
-                                    Started&lt;/a&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-&lt;!-- End 1-2-3 Go! Agenda --&gt;</content><author><name></name></author><category term="mathematics" /><category term="Mathematics" /><summary type="html">Overview This module is designed to help you explore how mathematics affects your life each day. In Week 1 of the 1-2-3 Go! Nova module you will get introduced to how numbers came to be.</summary></entry><entry><title type="html">Science Everywhere - Week 4</title><link href="http://localhost:4000/science/2019/03/25/science-everywhere-w4.html" rel="alternate" type="text/html" title="Science Everywhere - Week 4" /><published>2019-03-25T01:00:00-07:00</published><updated>2019-03-25T01:00:00-07:00</updated><id>http://localhost:4000/science/2019/03/25/science-everywhere-w4</id><content type="html" xml:base="http://localhost:4000/science/2019/03/25/science-everywhere-w4.html">&lt;h1 id=&quot;meet-a-scientist&quot;&gt;Meet a Scientist&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-08T02:49:51-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nova STEM Labs</title><subtitle>Activities and resources for Cub Scout interested in Science, Technology, Engineering or Math.</subtitle><entry><title type="html">Science Everywhere - Week 4</title><link href="http://localhost:4000/science/2019/03/25/science-everywhere-w4.html" rel="alternate" type="text/html" title="Science Everywhere - Week 4" /><published>2019-03-25T01:00:00-07:00</published><updated>2019-03-25T01:00:00-07:00</updated><id>http://localhost:4000/science/2019/03/25/science-everywhere-w4</id><content type="html" xml:base="http://localhost:4000/science/2019/03/25/science-everywhere-w4.html">&lt;h1 id=&quot;meet-a-scientist&quot;&gt;Meet a Scientist&lt;/h1&gt;
 &lt;p&gt;This week you will wrap up the &lt;em&gt;Science Everywhere&lt;/em&gt; module with a visit to a place where science is done - a doctors office or clinic. This is a great place to learn how science is used in every day things.&lt;/p&gt;
 
 &lt;h2 id=&quot;where-do-scientists-work&quot;&gt;Where Do Scientists Work?&lt;/h2&gt;
@@ -628,8 +502,9 @@ In Week 1 of the &lt;em&gt;Science Everywhere&lt;/em&gt; Nova module you will ge
 &lt;p&gt;This episode focuses on the three (3) states of H&lt;sub&gt;2&lt;/sub&gt;O - ice, water and steam. This
 is a great intro to how substances can change simply by changing something that affect them - in this case, the temperature.&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.youtube.com/embed/3MXBDtGC57U&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://youtu.be/3MXBDtGC57U&quot;&gt;The Magic School Bus Rides Again - Season 1, Episode 8 - Three in One&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/3MXBDtGC57U?start=0&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/3MXBDtGC57U&quot;&gt;The Magic School Bus Rides Again - Season 1, Episode 8 - Three in One&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This activity will address 50% of Requirement #1.&lt;/p&gt;
 
@@ -740,4 +615,6 @@ is a great intro to how substances can change simply by changing something that 
 
 &lt;p&gt;Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="Sports" /><category term="Technology" /><category term="Modern" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!</summary></entry><entry><title type="html">Jekyll Third Post Title</title><link href="http://localhost:4000/technology/2018/01/25/third-post.html" rel="alternate" type="text/html" title="Jekyll Third  Post Title" /><published>2018-01-25T17:42:23-08:00</published><updated>2018-01-25T17:42:23-08:00</updated><id>http://localhost:4000/technology/2018/01/25/third-post</id><content type="html" xml:base="http://localhost:4000/technology/2018/01/25/third-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="Technology" /><category term="Technology" /><category term="Modern" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!</summary></entry></feed>
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="Technology" /><category term="Technology" /><category term="Modern" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!</summary></entry><entry><title type="html">Jekyll Second Post</title><link href="http://localhost:4000/news/2018/01/25/second-post.html" rel="alternate" type="text/html" title="Jekyll Second Post" /><published>2018-01-25T17:42:23-08:00</published><updated>2018-01-25T17:42:23-08:00</updated><id>http://localhost:4000/news/2018/01/25/second-post</id><content type="html" xml:base="http://localhost:4000/news/2018/01/25/second-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="News" /><category term="News" /><category term="Popular" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!</summary></entry></feed>

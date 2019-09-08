@@ -178,12 +178,6 @@ body {
     line-height: 25px;
 }
 
-ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-
 a {
     color: #666666;
     -webkit-transition: all .4s linear 0s;
@@ -208,8 +202,8 @@ img {
 }
 
 .themeix-ptb {
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .themeix-pb {
@@ -267,6 +261,11 @@ img {
 
 .hover-bg {
     background-color: #2196F3;
+    color: #666666;
+}
+
+.waiting-bg {
+    background-color: #cccccc;
     color: #666666;
 }
 
