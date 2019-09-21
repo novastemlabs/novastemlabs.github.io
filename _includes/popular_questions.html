@@ -1,27 +1,29 @@
-<div class="popular-questions"> 
-<h2 class="widget-title">Popular Questions</h2>
-<ul>
+<section class="popular-questions">
+    <div class="widget-title">
+        <h2 class="list-title">Popular Questions</h2>
+    </div>
+    <ul>
 
-    {% assign data = site.science | reverse %}
+        {% assign data = site.science | reverse %}
 
-    {% for topics in data limit: "2" %}
-     <li><a href="{{topics.url}}">{{topics.question}}</a></li>
-    {% endfor %}
+        {% for topics in data limit: "2" %}
+        <li><a href="{{topics.url}}">{{topics.question}}</a></li>
+        {% endfor %}
 
-    {% assign data2 = site.technology | reverse %}
-    {% for topics in data2 limit: "2" %}
-     <li><a href="{{topics.url}}">{{topics.question}}</a></li>
-    {% endfor %}
+        {% assign data2 = site.technology | reverse %}
+        {% for topics in data2 limit: "2" %}
+        <li><a href="{{topics.url}}">{{topics.question}}</a></li>
+        {% endfor %}
 
-    {% assign data3 = site.engineering | reverse %}
-    {% for topics in data3 limit: "2" %}
-     <li><a href="{{topics.url}}">{{topics.question}}</a></li>
-    {% endfor %}
+        {% assign data3 = site.engineering | reverse %}
+        {% for topics in data3 limit: "2" %}
+        <li><a href="{{topics.url}}">{{topics.question}}</a></li>
+        {% endfor %}
 
-    {% assign data4 = site.mathematics %}
-    {% for topics in data4 limit: "2" %}
-     <li><a href="{{topics.url}}">{{topics.question}}</a></li>
-    {% endfor %}
+        {% assign data4 = site.mathematics %}
+        {% for topics in data4 limit: "2" %}
+        <li><a href="{{topics.url}}">{{topics.question}}</a></li>
+        {% endfor %}
 
- </ul>
-</div>
+    </ul>
+</section>

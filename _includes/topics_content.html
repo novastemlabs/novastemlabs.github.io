@@ -7,9 +7,8 @@
                     <!-- Start Topics Link Area -->
                     <div class="topics-links">
                         <div class="themeix-section-title">
-                            <h2>Explore Topics</h2>
-                            <p>The activities and guides for each STEM topic is always growig, but here is a sample of
-                                some of what we have in Nova STEM Labs.</p>
+                            <h2>Popular Questions</h2>
+                            <p>Lots of questions come up in STEM labs. Here are some of the most common and some of our favortie questions.</p>
                         </div>
                         <div class="row">
                             <!-- Start Science -->
@@ -77,7 +76,7 @@
                                 <div class="single-links">
                                     {% assign category = site.mathematics | map: "category_name" | uniq %}
                                     {% for cat_name in category limit: "1" %}
-                                    <h4 class="list-title">{{cat_name}}</h4>
+                                    <h4 class="list-title">Mathematics</h4>
                                     {% endfor %}
                                     <ul>
                                         {% for page in  site.mathematics %}

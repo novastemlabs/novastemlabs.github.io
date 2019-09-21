@@ -22,6 +22,13 @@ To get you started, this is what [Wikipedia](https://en.wikipedia.org/wiki/Luis_
 
 Now it is up to you to find information about Dr. Alvarez, and answer the questions above.
 
+Here are a few places to start:
+
+* [Dr. Luis W. Alvarez on YouTube (1:36)](https://www.youtube.com/watch?v=ct7Kk0nhOWs)
+* [Dr. Luis W. Alvarez on YouTube (4:25)](https://www.youtube.com/watch?v=TvxiV7Pn9xE)
+* [Dr. Lis W. Alvarez on FamousScientists.org](https://www.famousscientists.org/luis-alvarez/)
+
+
 # Journey Map
 
 {% include supernova_alvarez_agenda_1.html %}
