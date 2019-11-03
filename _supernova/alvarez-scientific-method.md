@@ -9,10 +9,10 @@ author_name: DougSeven
 ---
 
 <!-- Start The Scientific Method -->
-Can you make a balloon inflate without using air? Sure you can! You just need to make carbon dioxide gas, which is easier than you think. When vinegar and baking soda touch, get ready to watch the reaction!
+Have you ever wondered why the sky is blue or how gravity works or what makes a rainbow? Scientists wonder about those things, too. Then, they figure out the answer using experiments. Some of those experiments are really fun because they use stuff that is gooey, oozy, splishy and splashy - just the kind of stuff Scouts enjoy!
 
 # The Scientific Method
-Before you get to the experiment it is important to know about the *scientific method*. 
+Scientists try to create a fair test when they want to answer a question using the *scientific method*.
 
 The scientific method is a series of steps used by scientists to determine whether a something they think (knwon as a "hypothesis") is valid or not. It can also be used to solve everyday problems in any topic or area.
 
@@ -26,48 +26,48 @@ There are 6-steps in the scientific method.
 6. **Share results** - Explain your results by presenting your experiment, observations, and conclusions. 
 
 
-# Let's Make Science
-Mixing vinegar and baking soda initiates a chemical reaction that produces carbon dioxide (CO<sub>2</sub>) and water (H<sub>2</sub>O). The chemical names of the two ingredients are *acetic acid*, which is vinegar, and *sodium bicarbonate*, which is baking soda.
+# Science Time
+Its time to put science to the test (that's funny because all science is tests). For this science experiment you will create hypotheses about whether or not objects will sink or float in different solvents.
+
+Have you ever wondered if an egg will sink or float? Do you think adding anything to the water would change the outcome? Let's find out!
 
 ## Supplies
-- Baking Soda
-- Vinegar
-- Empty Water Bottles
-- Balloons
-- Measuring Spoons
-- Small Funnel
+- Three large cups (at least 12-ounces) all the same size
+- Three fresh eggs about the same size
+- Two (2) tablespoons of salt
+- Two (2) tablespoons of sugar
+- Water
+- A spoon
 
 ## 1. Ask a Question
-If mixing vinegar and baking soda initiates a chemical reaction that produces carbon dioxide (CO<sub>2</sub>) and water (H<sub>2</sub>O), **does more baking soda create more CO<sub>2</sub>**?
+Think about what we are trying to figure out. What are the questions you are trying to answer? One question is, "does an egg float in water?" Another question is, "does adding salt to the water change whether the egg floats or sinks?" A third question is, "does adding sugar to the water change whether the egg floats or sinks?"
+
+What other questions could you ask?
 
 ## 2. Hypothesize
-
-Once you have a question you can answer with an experiment (for example, what happens when I mix baking soda and vinegar?), you should create a hypothesis - that is a prediction of what you *think* will happen. 
+Once you have one or more questions that you can answer with an experiment (for example, does an egg float in waater mixed with sugar?), you should create a hypothesis - that is a prediction of what you *think* will happen. 
 
 ## 3. Experiment
+Now it is time to experiment. Follow the steps below to run at least three experiements, one for each egg - be sure to take good notes. 
 
-Now it is time to experiment. Follow the steps below to run at least three experiements, changing the amounts baking soda and vinegar you mix in each one - be sure to take good notes. 
-
-1. Blow up the balloon a bit to stretch it out some.
-2. Use the funnel and teaspoon to add baking soda to the balloon. Start with a small amount, like 2 teaspoons, and add more for each consecutive experiment.
-3. Fill the empty water bottle *halfway* with vinegar.
-4. Attach the balloon to the bottle, making sure you have a good seal!
-5. Lift up the balloon to dump the baking soda into the bottle of vinegar
-6. Watch what happens when the two substances mix - make notes of your observations.
+1. Fill each cup halfway with water.
+2. Add the salt to the second cup, and stir.
+3. Add the surag to the third cup, and stir.
+4. Slowly add an egg to each cup and write down your observations.
 
 ## 4. Observe & Record
-
 Observations are critical to science. Make sure during the experiments that you watch what is happening and take notes of your observations. 
 
-Things to observe:
-- How much vinegar did you use?
-- How much Baking Soda did you use?
-- What happened to the balloon?
+| Cup                              | Prediction    | Observations |
+| -------------------------------- |:-------------:|:------------:|
+| Example             |Write your prediction here - sink, float or something else... |Write your observations from the experiment here.               |
+| Cup&nbsp;1&nbsp;Water&nbsp;Only  |               |              |
+| Cup&nbsp;2&nbsp;Salt&nbsp;Added  |               |              |
+| Cup&nbsp;3&nbsp;Sugar&nbsp;Added |               |              |
 
 ## 5. Analyze
 
-After you run the experiment at least 3 times, look over your notes and see if you can make a conclusion (that's a fancy way to say 'describe the science you observed').
+After you run the experiment, look over your notes and see if you can make a conclusion (that's a fancy way to say 'describe the science you observed').
 
 ## 6. Share Results
-
-Share your hypothesis, experiments, observations and conclusion with your Nova Counselor.
+Share your hypothesis, experiments, observations and conclusion with your Supernova Mentor.
