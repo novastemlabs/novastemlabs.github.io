@@ -21,6 +21,8 @@ Static electricity also makes some things stick together, such as hiking socks a
 
 *From the Super Science adventure in the Bear Cub Scout Handbook (p. 272).*
 
+![alt text](images/electrons.png "Protrons and Electrons")
+
 # The Scientific Method
 Scientists try to create a fair test when they want to answer a question using the *scientific method*.
 
@@ -81,9 +83,9 @@ Observations are critical to science. Make sure during the experiments that you 
 | CLoth           |               |              |
 | Foam            |               |              |
 | Coin            |               |              |
+&nbsp;
 
 ## 5. Analyze
-
 After you run the experiment, look over your notes and see if you can make a conclusion (that's a fancy way to say 'describe the science you observed').
 
 ## 6. Share Results
@@ -125,9 +127,9 @@ Observations are critical to science. Make sure during the experiments that you 
 | Cup&nbsp;1&nbsp;Water&nbsp;Only  |               |              |
 | Cup&nbsp;2&nbsp;Salt&nbsp;Added  |               |              |
 | Cup&nbsp;3&nbsp;Sugar&nbsp;Added |               |              |
+&nbsp;
 
 ## 5. Analyze
-
 After you run the experiment, look over your notes and see if you can make a conclusion (that's a fancy way to say 'describe the science you observed').
 
 ## 6. Share Results
