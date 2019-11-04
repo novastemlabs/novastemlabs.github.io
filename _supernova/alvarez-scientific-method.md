@@ -83,6 +83,7 @@ Observations are critical to science. Make sure during the experiments that you 
 | CLoth           |               |              |
 | Foam            |               |              |
 | Coin            |               |              |
+
 &nbsp;
 
 ## 5. Analyze
@@ -127,6 +128,7 @@ Observations are critical to science. Make sure during the experiments that you 
 | Cup&nbsp;1&nbsp;Water&nbsp;Only  |               |              |
 | Cup&nbsp;2&nbsp;Salt&nbsp;Added  |               |              |
 | Cup&nbsp;3&nbsp;Sugar&nbsp;Added |               |              |
+
 &nbsp;
 
 ## 5. Analyze
