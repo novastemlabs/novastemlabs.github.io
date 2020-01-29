@@ -136,3 +136,9 @@ After you run the experiment, look over your notes and see if you can make a con
 
 ## 6. Share Results
 Share your hypothesis, experiments, observations and conclusion with your Supernova Mentor.
+
+# Journey Map
+
+{% include supernova_alvarez_agenda_1.html %}
+{% include supernova_alvarez_agenda_2.html %}
+<!-- End Who is Dr. Luis W. Alvarez -->

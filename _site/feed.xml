@@ -1,4 +1,146 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-28T21:53:02-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nova STEM Labs</title><subtitle>Activities and resources for Cub Scout interested in Science, Technology, Engineering or Mathematics.</subtitle><entry><title type="html">1-2-3 Go! - Week 2</title><link href="http://localhost:4000/mathematics/2019/04/08/1-2-3-go-w2.html" rel="alternate" type="text/html" title="1-2-3 Go! - Week 2" /><published>2019-04-08T05:00:00-07:00</published><updated>2019-04-08T05:00:00-07:00</updated><id>http://localhost:4000/mathematics/2019/04/08/1-2-3-go-w2</id><content type="html" xml:base="http://localhost:4000/mathematics/2019/04/08/1-2-3-go-w2.html">&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-29T15:05:17-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nova STEM Labs</title><subtitle>Activities and resources for Cub Scout interested in Science, Technology, Engineering or Mathematics.</subtitle><entry><title type="html">Cub Scouts Can Code - Week 2</title><link href="http://localhost:4000/technology/2019/12/09/cub-scouts-can-code-w2.html" rel="alternate" type="text/html" title="Cub Scouts Can Code - Week 2" /><published>2019-12-09T04:00:00-08:00</published><updated>2019-12-09T04:00:00-08:00</updated><id>http://localhost:4000/technology/2019/12/09/cub-scouts-can-code-w2</id><content type="html" xml:base="http://localhost:4000/technology/2019/12/09/cub-scouts-can-code-w2.html">&lt;h1 id=&quot;hour-of-code&quot;&gt;Hour of Code&lt;/h1&gt;
+&lt;!-- Start Hour of Code --&gt;
+&lt;div class=&quot;our-community-area themeix-ptb&quot;&gt;
+    &lt;div class=&quot;container&quot;&gt;
+        &lt;p&gt;The Hour of Code takes place each year during Computer Science Education Week, held annually in recognition
+            of the birthday of computing pioneer Admiral Grace Murray Hopper (December 9, 1906).&lt;/p&gt;
+        &lt;p&gt;The Hour of Code started as a one-hour introduction to computer science, designed to demystify &quot;code&quot;, to
+            show that anybody can learn the basics, and to increase participation in the field of computer science. It
+            has since become a worldwide effort to celebrate computer science, starting with 1-hour coding activities.
+        &lt;/p&gt;
+        &lt;p&gt;Every Cub Scout should have the opportunity to learn computer science. It helps improve problem-solving
+            skills, logic and creativity. By starting early, Scouts will have a foundation for success in any
+            21st-century career path.&lt;/p&gt;
+
+        &lt;h2&gt;Who is Grace Hopper&lt;/h2&gt;
+        &lt;p&gt;Grace Murray Hopper (December 9 1906 – January 1 1992) was an American computer scientist and United States
+            Navy officer. She was one of the first people to work with modern digital computers and the first
+            programmers of the Harvard Mark I calculator. She developed the first compiler for a computer programming
+            language. She had the idea that programs could be written in a language that was close to English rather
+            than in machine code or languages (such as assembly language) close to machine code, which is how it was
+            normally done at that time. COBOL language was based very much on her philosophy.&lt;/p&gt;
+        &lt;p&gt;&lt;i&gt;From &lt;a href=&quot;https://kids.kiddle.co/Grace_Hopper&quot; target=&quot;_blank&quot;&gt;Grace Hopper facts for kids&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+
+        &lt;h2&gt;Its Just an Hour&lt;/h2&gt;
+        &lt;p&gt;The Hour of Code is just that...one hour exploring the world of coding. The Hour of Code is driven by a
+            community of people and organizations that have come together to support the Hour of Code — including
+            Microsoft, Apple, Amazon, Boys and Girls Clubs of America and the College Board.&lt;/p&gt;
+
+        &lt;h2&gt;ASSIGNMENT&lt;/h2&gt;
+        &lt;p&gt;In a Den or Pack meeting led by a &lt;i&gt;Scouts BSA&lt;/i&gt; Scout or Venturer who is working on his or her Supernova
+            award, or by a Den Leader or qualified adult volunteer try a one-hour tutorial designed for your age group.
+        &lt;/p&gt;
+        &lt;p&gt;
+            &lt;ol&gt;
+                &lt;li&gt;Go to the &lt;a href=&quot;https://hourofcode.com/us/learn&quot; target=&quot;_blank&quot;&gt;Hour of Code Activities&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;Select the &lt;b&gt;Grades 2-5&lt;/b&gt; filter.&lt;/li&gt;
+                &lt;li&gt;Select from any of the activities to start your Hour of Code.&lt;/li&gt;
+                &lt;li&gt;Spend an hour or more on the activities.&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/p&gt;
+
+        &lt;h2&gt;What Device Should I Use?&lt;/h2&gt;
+        &lt;p&gt;Hour of Code tutorials work on most devices and browsers. Windows and Apple laptops and Windows, Apple,
+            Android, and Kindle tablets are all supported.&lt;/p&gt;
+
+        &lt;h2&gt;I Don't Know Anything About Coding. Can I Still Lead an Event?&lt;/h2&gt;
+        &lt;p&gt;Of course. Hour of Code activities are self-guided. All you have to do is try our current tutorials, pick the
+            tutorial you want, and pick an hour — we take care of the rest. We also have options for every age and
+            experience-level, from kindergarten and up.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- End Hour of Code --&gt;
+
+&lt;h1 id=&quot;journey-map&quot;&gt;Journey Map&lt;/h1&gt;
+&lt;!-- Start 1-2-3 Go! Agenda --&gt;
+&lt;section&gt;
+    &lt;div class=&quot;document-source-area themeix-ptb&quot;&gt;
+        &lt;div class=&quot;container&quot;&gt;
+            &lt;div class=&quot;row&quot;&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#f26c4f;&quot;&gt;&lt;i class=&quot;fa fa-keyboard&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 1&lt;/h2&gt;
+                            &lt;p&gt;Introduction&lt;/p&gt;
+                            &lt;a href=&quot;#&quot; class=&quot; themeix-btn
+                                waiting-bg&quot;&gt;Coming Soon&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Introduction&lt;/h2&gt;
+                                &lt;p&gt;
+                                    An introduction to the computer programming by watching or
+                                    reading about computers and discussing it with your Nova Councelor.
+                                &lt;/p&gt;
+                                &lt;a href=&quot;#&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Coming Soon&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#2196F3;&quot;&gt;&lt;i class=&quot;fa fa-laptop-code&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 2&lt;/h2&gt;
+                            &lt;p&gt;Hour of Code&lt;/p&gt;
+                            &lt;a href=&quot;/technology/2019/12/09/cub-scouts-can-code-w2.html&quot; class=&quot;themeix-btn hover-bg&quot;&gt;Go to Lab&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Hour of Code&lt;/h2&gt;
+                                &lt;p&gt;Spend an hour learning to be a computer programmer during Computer Science Education Week.&lt;/p&gt;
+                                &lt;a href=&quot;/technology/2019/12/09/cub-scouts-can-code-w2.html&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Go to Lab&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#71c668;&quot;&gt;&lt;i class=&quot;fa fa-superscript&quot;&gt;&lt;/i&gt;
+                            &lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 3&lt;/h2&gt;
+                            &lt;p&gt;Coming Soon&lt;/p&gt;
+                            &lt;a href=&quot;#&quot; class=&quot;themeix-btn waiting-bg&quot;&gt;Lab Coming Soon&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Coming Soon&lt;/h2&gt;
+                                &lt;p&gt;Coming Soon&lt;/p&gt;
+                                &lt;a href=&quot;#&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Lab Coming Soon&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-xs-3&quot;&gt;
+                    &lt;div class=&quot;single-box&quot;&gt;
+                        &lt;div class=&quot;box-inner&quot;&gt;
+                            &lt;div class=&quot;icons&quot; style=&quot;font-size: 50px; color:#6600CC;&quot;&gt;&lt;i class=&quot;fa fa-user-secret&quot;&gt;&lt;/i&gt;
+                            &lt;/div&gt;
+                            &lt;br /&gt;
+                            &lt;h2&gt;Week 4&lt;/h2&gt;
+                            &lt;p&gt;Coming Soon&lt;/p&gt;
+                            &lt;a href=&quot;#&quot; class=&quot;themeix-btn waiting-bg&quot;&gt;Lab Coming Soon&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;box-flip&quot;&gt;
+                            &lt;div class=&quot;flip-box-innner&quot;&gt;
+                                &lt;h2&gt;Coming Soon&lt;/h2&gt;
+                                &lt;p&gt;Coming Soon
+                                &lt;/p&gt;
+                                &lt;a href=&quot;#&quot; class=&quot;themeix-btn danger-bg&quot;&gt;Lab Coming Soon&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- End 1-2-3 Go! Agenda --&gt;</content><author><name></name></author><category term="technology" /><category term="Technology" /><summary type="html">Hour of Code The Hour of Code takes place each year during Computer Science Education Week, held annually in recognition of the birthday of computing pioneer Admiral Grace Murray Hopper (December 9, 1906). The Hour of Code started as a one-hour introduction to computer science, designed to demystify &quot;code&quot;, to show that anybody can learn the basics, and to increase participation in the field of computer science. It has since become a worldwide effort to celebrate computer science, starting with 1-hour coding activities. Every Cub Scout should have the opportunity to learn computer science. It helps improve problem-solving skills, logic and creativity. By starting early, Scouts will have a foundation for success in any 21st-century career path. Who is Grace Hopper Grace Murray Hopper (December 9 1906 – January 1 1992) was an American computer scientist and United States Navy officer. She was one of the first people to work with modern digital computers and the first programmers of the Harvard Mark I calculator. She developed the first compiler for a computer programming language. She had the idea that programs could be written in a language that was close to English rather than in machine code or languages (such as assembly language) close to machine code, which is how it was normally done at that time. COBOL language was based very much on her philosophy. From Grace Hopper facts for kids Its Just an Hour The Hour of Code is just that...one hour exploring the world of coding. The Hour of Code is driven by a community of people and organizations that have come together to support the Hour of Code — including Microsoft, Apple, Amazon, Boys and Girls Clubs of America and the College Board. ASSIGNMENT In a Den or Pack meeting led by a Scouts BSA Scout or Venturer who is working on his or her Supernova award, or by a Den Leader or qualified adult volunteer try a one-hour tutorial designed for your age group. Go to the Hour of Code Activities Select the Grades 2-5 filter. Select from any of the activities to start your Hour of Code. Spend an hour or more on the activities. What Device Should I Use? Hour of Code tutorials work on most devices and browsers. Windows and Apple laptops and Windows, Apple, Android, and Kindle tablets are all supported. I Don't Know Anything About Coding. Can I Still Lead an Event? Of course. Hour of Code activities are self-guided. All you have to do is try our current tutorials, pick the tutorial you want, and pick an hour — we take care of the rest. We also have options for every age and experience-level, from kindergarten and up.</summary></entry><entry><title type="html">1-2-3 Go! - Week 2</title><link href="http://localhost:4000/mathematics/2019/04/08/1-2-3-go-w2.html" rel="alternate" type="text/html" title="1-2-3 Go! - Week 2" /><published>2019-04-08T05:00:00-07:00</published><updated>2019-04-08T05:00:00-07:00</updated><id>http://localhost:4000/mathematics/2019/04/08/1-2-3-go-w2</id><content type="html" xml:base="http://localhost:4000/mathematics/2019/04/08/1-2-3-go-w2.html">&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
 &lt;p&gt;This module is designed to help you explore how mathematics affects your life each day. 
 In Week 2 of the &lt;em&gt;1-2-3 Go!&lt;/em&gt; Nova module you will conduct an opinion poll and chart the results, and conduct a probability experiment.&lt;/p&gt;
 
@@ -852,6 +994,4 @@ is a great intro to how substances can change simply by changing something that 
 
 &lt;p&gt;consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;</content><author><name></name></author><category term="Dangerous" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atqu. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium illo voluptas quod rem fugit nulla veniam labore fugiat? Ad aut architecto consequatur fugit sed voluptatum eveniet voluptatem officia facere, ab! Vel, officia,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi.possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla! incidunt! Lorem ipsum dolor sit amet. consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.</summary></entry><entry><title type="html">Jekyll Third Post Title</title><link href="http://localhost:4000/warning/2018/01/26/fourth-post.html" rel="alternate" type="text/html" title="Jekyll Third  Post Title" /><published>2018-01-26T14:44:23-08:00</published><updated>2018-01-26T14:44:23-08:00</updated><id>http://localhost:4000/warning/2018/01/26/fourth-post</id><content type="html" xml:base="http://localhost:4000/warning/2018/01/26/fourth-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi.&lt;/p&gt;
 
-&lt;p&gt;possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla! incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;</content><author><name></name></author><category term="Warning" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi. possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla! incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.</summary></entry><entry><title type="html">Jekyll Third Post Title</title><link href="http://localhost:4000/sports/2018/01/25/six-post.html" rel="alternate" type="text/html" title="Jekyll Third  Post Title" /><published>2018-01-25T17:42:23-08:00</published><updated>2018-01-25T17:42:23-08:00</updated><id>http://localhost:4000/sports/2018/01/25/six-post</id><content type="html" xml:base="http://localhost:4000/sports/2018/01/25/six-post.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit.&lt;/p&gt;
-
-&lt;p&gt;Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!&lt;/p&gt;</content><author><name></name></author><category term="Sports" /><category term="Technology" /><category term="Modern" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia, incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi, possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla!</summary></entry></feed>
+&lt;p&gt;possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla! incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.&lt;/p&gt;</content><author><name></name></author><category term="Warning" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio hic est tenetur soluta eius rem iure! Unde fugit provident eligendi officiis quae, modi, ea quis. Minus dolorem, sint atque aut! Vel, officia,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cupiditate dolorum perferendis laboriosam quisquam numquam eos, sit et nemo reiciendis? Illum, neque. Similique animi. possimus, repudiandae mollitia laudantium eligendi recusandae assumenda ea, illum perferendis, porro aliquid harum fugiat quos sint! Quidem a sint sed, dolore laboriosam aspernatur, minima nulla! incidunt! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi corporis quibusdam officia harum error deserunt, est corrupti maxime repellendus eveniet neque quisquam sint impedit possimus cupiditate vel praesentium. Hic, repellat. Officia iusto voluptatem nihil ea eos tenetur ratione pariatur soluta cupiditate doloremque.</summary></entry></feed>
